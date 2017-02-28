@@ -17,7 +17,7 @@ Both the computer and the lenticular lens mediate images and objects, changing t
 In progress.
 
 
-
+---- Below for info only, to be removed later ---
 
 ## Welcome to GitHub Pages
 
