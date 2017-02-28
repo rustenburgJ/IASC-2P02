@@ -1,5 +1,21 @@
 ## IASC-2P02
 
+##  About me
+
+I am a third-year student in Digital Humanities in the Centre for Digital Humanities at Brock University. 
+I am studying solving problems through Interactive Arts and Science.
+My studies include Computer Science (2003), Honours Sociology with a concentration in Social Justice and Equity (2010),  Honours Women’s and Gender Studies (2015). These disciplines have provided tools and lenses for analysis from hard science and soft science perspectives.
+
+##  Blog
+
+Lorem Ipsum
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rustenburgJ/IASC-2P02/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
