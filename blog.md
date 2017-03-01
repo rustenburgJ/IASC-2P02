@@ -8,6 +8,10 @@ I refer to the article "Why are the Digital Humanities so White?" by McPherson w
 
 Both the computer and the lenticular lens mediate images and objects, changing their relationship but frequently suppressing that process of relation, much like the divided departments of the contemporary university. The fragmentary knowledges encouraged by many forms and experiences of the digital neatly parallel the logics that underwrite the covert racism endemic to our times, operating in potential feedback loops, supporting each other. If scholars of race have highlighted how certain tendencies within poststructuralist theory simultaneously respond to and marginalize race, this maneuver is at least partially possible because of a parallel and increasing dispersion of electronic forms across culture, forms that simultaneously enact and shape their new modes of thinking (13).
 
+This text analysis visualization, presenting evidence that supports your core argument is taken from Voyant included here as a static image (not as an embedded html snippet).
+
+This corpus has 1 document with 10,231 total words and 2,581 unique word forms. Created now.
+Most frequent words in the corpus: unix (74); digital (62); race (52); modularity (40); new (37)
 
 [image](https://github.com/rustenburgJ/IASC-2P02/blob/master/images/words-voyant-tools.jpg)
 
