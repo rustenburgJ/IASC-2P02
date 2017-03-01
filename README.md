@@ -1,5 +1,8 @@
 ## IASC-2P02
 
+## Joyce Rustenburg
+
+-- Remove this part below
 ##  About me
 
 I am a third-year student in Digital Humanities in the Centre for Digital Humanities at Brock University. 
