@@ -2,6 +2,8 @@
 
 ## Joyce Rustenburg
 
+Check out my [blog](https://rustenburgJ.github.io/IASC-2P02/blog) thank you.
+
 -- Remove this part below
 ##  About me
 
