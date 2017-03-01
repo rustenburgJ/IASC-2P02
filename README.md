@@ -7,8 +7,7 @@ I am studying solving problems through Interactive Arts and Science.
 My studies include Computer Science (2003), Honours Sociology with a concentration in Social Justice and Equity (2010),  Honours Women’s and Gender Studies (2015). These disciplines have provided tools and lenses for analysis from hard science and soft science perspectives as well as feminist perspectives.
 
 
-In progress.
-
+In progress. Continue reading (https://rustenburgJ.github.io/IASC-2P02/blog)
 
 ---- Below for info only, to be removed later ---
 
