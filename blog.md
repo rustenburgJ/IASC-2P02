@@ -1,5 +1,7 @@
 #  Blog
 
+# Joyce Rustenburg
+
 ## Assignment 2
 
 Temporary Blog
