@@ -15,6 +15,8 @@ Most frequent words in the corpus: unix (74); digital (62); race (52); modularit
 
 [image](https://github.com/rustenburgJ/IASC-2P02/blob/master/images/words-voyant-tools.jpg)
 
+[link to Brock University](https://brocku.ca/)
+
 ![](images/words-voyant-tools.jpg)
 
 In progress.
