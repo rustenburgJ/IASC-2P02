@@ -13,8 +13,6 @@ This text analysis visualization, presenting evidence that supports your core ar
 This corpus has 1 document with 10,231 total words and 2,581 unique word forms. Created now.
 Most frequent words in the corpus: unix (74); digital (62); race (52); modularity (40); new (37)
 
-[image](https://github.com/rustenburgJ/IASC-2P02/blob/master/images/words-voyant-tools.jpg)
-
 [link to Brock University](https://brocku.ca/)
 
 ![](images/words-voyant-tools.jpg)
