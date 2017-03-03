@@ -12,13 +12,14 @@ Both the computer and the lenticular lens mediate images and objects, changing t
 
 This text analysis visualization, presenting evidence that supports your core argument is taken from Voyant included here as a static image (not as an embedded html snippet).
 
-This corpus has 1 document with 10,231 total words and 2,581 unique word forms. Created now.
-Most frequent words in the corpus: unix (74); digital (62); race (52); modularity (40); new (37)
-
 [link to Brock University](https://brocku.ca/humanities/humanities-research/humanities-research/humanities-research-institute)
 
+
+The text analysis tool I used was Voyant. Here is the text analysis document window. ![](images/Voyant-tools-corpus.jpg). The results of the text analysis: This corpus has 1 document with 10,231 total words and 2,581 unique word forms. Created now.
+Most frequent words in the corpus: unix (74); digital (62); race (52); modularity (40); new (37).
+A closer look at the text as image. The size of the text is in direct proportion to the number of times the word is found in the corpus.
 ![](images/words-voyant-tools.jpg)
 
-The text analysis tool I used was Voyant. Here is the text analysis document window. ![](images/Voyant-tools-corpus.jpg)
 
-Link to Blog: [blog](https://rustenburgj.github.io/IASC-2P02/blog).
+
+Link to [blog](https://rustenburgj.github.io/IASC-2P02/blog).
