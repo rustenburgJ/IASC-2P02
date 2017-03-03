@@ -19,4 +19,5 @@ Most frequent words in the corpus: unix (74); digital (62); race (52); modularit
 
 ![](images/words-voyant-tools.jpg)
 
-In progress.
+The text analysis tool I used was Voyant. Here is the text analysis document window. ![](images/Voyant-tools-corpus.jpg)
+
