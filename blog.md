@@ -27,6 +27,6 @@ Link to [blog](https://rustenburgj.github.io/IASC-2P02/blog).
 
 Works Cited
 
-McPherson, Tara. ["Why are the Digital Humanities so White?"](http://dhdebates.gc.cuny.edu/debates/text/29) accessed March 3, 2017.
 
+McPherson, Tara. 2012. “Why are the Digital Humanities so White?”  http://dhdebates.gc.cuny.edu/debates/text/29 accessed March 3, 2017.
 
