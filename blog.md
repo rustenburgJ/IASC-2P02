@@ -31,3 +31,8 @@ Works Cited
 
 McPherson, Tara. 2012 Print Edition. “Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation”  http://dhdebates.gc.cuny.edu/debates/text/29 accessed March 3, 2017.
 
+
+
+
+Reference
+[digital humanities companion](http://www.digitalhumanities.org/companion/)
