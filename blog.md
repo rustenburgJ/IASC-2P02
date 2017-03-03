@@ -21,3 +21,12 @@ A closer look at the text as image. The size of the text is in direct proportion
 
 
 Link to [blog](https://rustenburgj.github.io/IASC-2P02/blog).
+
+
+
+
+Works Cited
+
+McPherson, Tara. ["Why are the Digital Humanities so White?"](http://dhdebates.gc.cuny.edu/debates/text/29) accessed March 3, 2017.
+
+
