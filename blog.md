@@ -1,6 +1,7 @@
 #  Blog
 
 # Joyce Rustenburg
+[link to Brock University](https://brocku.ca/humanities/humanities-research/humanities-research/humanities-research-institute)
 
 ## Assignment 2
 
@@ -17,13 +18,8 @@ As Thomas Rommel writes, The history of literary computing, however, shows that 
 Cite as: A Companion to Digital Humanities, ed. Susan Schreibman, Ray Siemens, John Unsworth. Oxford: Blackwell, 2004. 
 http://www.digitalhumanities.org/companion/
 
-
-
-This text analysis visualization, presenting evidence that supports your core argument is taken from Voyant included here as a static image (not as an embedded html snippet).
-
-[link to Brock University](https://brocku.ca/humanities/humanities-research/humanities-research/humanities-research-institute)
-
-
+An example:
+This text analysis visualization, presents evidence that supports my core argument. 
 The text analysis tool I used was [Voyant](https://voyant-tools.org). Here is the text analysis document window after I pasted in the text from the article, ![](images/Voyant-tools-corpus.jpg). The results of the text analysis: This corpus has 1 document with 10,231 total words and 2,581 unique word forms. Created now.
 Most frequent words in the corpus: unix (74); digital (62); race (52); modularity (40); new (37).
 A closer look at the text as image. The size of the text is in direct proportion to the number of times the word is found in the corpus.
