@@ -36,7 +36,7 @@ The operating system Unix overtook Von Neumann's machine programmed with asssemb
             OOP |  feedback loops further racism
 
 
-Structures responding to and marginalizing race - feminism, there is no one woman's story, but many storiees. 
+Structures responding to and marginalizing race - feminism, there is no one woman's story, but many stories, the one/the other. 
 
 
 
