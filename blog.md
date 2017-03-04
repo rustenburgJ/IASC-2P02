@@ -9,7 +9,7 @@ I refer to the article ["Why are the Digital Humanities so White?"](http://dhdeb
 
 Both the computer and the lenticular lens mediate images and objects, changing their relationship but frequently suppressing that process of relation, much like the divided departments of the contemporary university. The fragmentary knowledges encouraged by many forms and experiences of the digital neatly parallel the logics that underwrite the covert racism endemic to our times, operating in potential feedback loops, supporting each other. If scholars of race have highlighted how certain tendencies within poststructuralist theory simultaneously respond to and marginalize race, this maneuver is at least partially possible because of a parallel and increasing dispersion of electronic forms across culture, forms that simultaneously enact and shape their new modes of thinking (13).
 
-### Article Analysis
+### Article Analysis, A Parallel Structure of UNIX and Race
 
 Unix and race are separate entities which McPherson looks at through a lenticular lens. She sees a parallel structure that can be used to explain why the digital humanities are so white. 
 
