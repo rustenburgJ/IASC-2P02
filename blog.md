@@ -5,7 +5,7 @@
 
 ## Assignment 2
 
-I refer to the article ["Why are the Digital Humanities so White?"](http://dhdebates.gc.cuny.edu/debates/text/29) by Tara McPherson who discusses a parallel between hard sciences, in the UNIX operating system, and digital humanities, media and race, looking through a lenticular lens. This lens type can show one image, or the other, but not both images at the same time or a merged version, e.g., a postcard of two 3-D images. 
+I refer to the article ["Why are the Digital Humanities so White?"](http://dhdebates.gc.cuny.edu/debates/text/29) by Tara McPherson who discusses a parallel between the computer, hard sciences, the UNIX operating system, and digital humanities, media and race, looking through a lenticular lens. This lens type can show one image, or the other, but not both images at the same time or a merged version, e.g., a postcard of two 3-D images. 
 
 > Both the computer and the lenticular lens mediate images and objects, changing their relationship but frequently suppressing that
 > process of relation, much like the divided departments of the contemporary university. The fragmentary knowledges encouraged by many
