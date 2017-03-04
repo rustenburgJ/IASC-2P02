@@ -19,7 +19,7 @@ Assembly language, Von Neumann machine/processor, do-it-yourself data structures
 
 #### UNIX and Mid nineteen sixties
 
-The operating system Unix overtook Von Neumann's machine programmed with asssembly language. UNIX had shells and used modularity, making it a little less open and accessible than previous opreating systems programmed with assembly language. 
+The operating system Unix overtook Von Neumann's machine programmed with asssembly language. UNIX had shells and used modularity, making it less open and accessible than previous opreating systems programmed with assembly language. 
 
   **Unix**   |        **Race**
   ------ | -----------------------------
@@ -29,10 +29,10 @@ The operating system Unix overtook Von Neumann's machine programmed with asssemb
 #### Late 1990s
 
 
-     Unix, Java |        Race
-   ------------ | --------------------------------
-        modular |  covert racism
-            OOP |  feedback loops further racism
+**Unix, Java** |       **Race**
+------------ | --------------------------------
+modular |  covert racism
+OOP |  feedback loops further racism
 
 
 Structures responding to and marginalizing race - feminism, there is no one woman's story, but many stories, the one/the other. 
