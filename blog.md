@@ -11,12 +11,12 @@ Both the computer and the lenticular lens mediate images and objects, changing t
 
 ### Article Analysis
 
-Unix and race are separate entities which McPherson looks at through a lenticular lens. She sees a parallel structure that can be used to explain why the digital humanities are so white. As an operating system Unix overtook Von Neumann's machine programmed asssembly language. UNIX had shells and used modularity, making it a little less accessible than assembly. One could argue that, however programming in assembly was complicated in that it required keeping track of the space used, being careful not to overwrite areas by keeping the data structures in the program 'segregated.'
+Unix and race are separate entities which McPherson looks at through a lenticular lens. She sees a parallel structure that can be used to explain why the digital humanities are so white. As an operating system Unix overtook Von Neumann's machine programmed asssembly language. UNIX had shells and used modularity, making it a little less accessible than assembly. 
 
 #### Pre UNIX
 
-Assembly language, Von Neumann machine/processor
-do-it-yourself data structures
+Assembly language, Von Neumann machine/processor, do-it-yourself data structures carved out.
+One could argue that programming in assembly was complicated in that it required keeping track of the space used, being careful not to overwrite areas by keeping the data structures in the program 'segregated' manually in the program.
 
 #### Mid nineteen sixties
 
