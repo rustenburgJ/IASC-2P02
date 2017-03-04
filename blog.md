@@ -13,8 +13,8 @@ Both the computer and the lenticular lens mediate images and objects, changing t
 
          Unix   |        Race
    ------------ | -----------------------------
-        modular | Content from cell 2
-   first column | Content in the second column
+        modular |  Content from cell 2
+   first column |  Content in the second column
 
 
 
