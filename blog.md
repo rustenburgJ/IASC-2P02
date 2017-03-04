@@ -23,9 +23,9 @@ Unix and race are separate entities which McPherson looks at through a lenticula
 
 #### Late 1990s
          Unix   |        Race
-   ------------ | -----------------------------
+   ------------ | --------------------------------
         modular |  covert racism
-   first column |  Content in the second column
+   first column |  feedback loop to further racism
 
 
 
