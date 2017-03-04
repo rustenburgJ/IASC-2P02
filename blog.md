@@ -11,7 +11,7 @@ Both the computer and the lenticular lens mediate images and objects, changing t
 
 ### Article Analysis, A Parallel Structure of UNIX and Race
 
-Unix and race are separate entities which McPherson looks at through a lenticular lens. She sees a parallel structure that can be used to explain why the digital humanities are so white. 
+Unix and race are separate entities which McPherson looks at through a lenticular lens. She uses a parallel structure to explain why the digital humanities are so white. 
 
 #### Pre UNIX
 
