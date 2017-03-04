@@ -35,8 +35,7 @@ modular |  covert racism
 OOP |  feedback loops further racism
 
 
-Structures responding to and marginalizing race - feminism, there is no one woman's story, but many stories, the one/the other and the question is "Who benefits?" 
-The other always in relation to the one, but never 'the one.' Previous to this was the male as bread winner, vs. the 'person of colour' male bread winner.
+Structures responding to and marginalizing race - feminism, there is no one woman's story, but many stories, the one/the other and the question is "Who benefits?" and difference, the other always in relation to the one, but the other can never be 'the one.' Previous to this was the male as bread winner, vs. the 'person of colour' male bread winner.
 
 
 
