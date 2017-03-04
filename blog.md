@@ -37,7 +37,7 @@ The operating system Unix overtook Von Neumann's machine programmed with asssemb
 
 
 Structures responding to and marginalizing race - feminism, there is no one woman's story, but many stories, the one/the other. 
-
+The other always in relation to the one, but never 'the one.'
 
 
 
