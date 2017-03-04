@@ -22,10 +22,10 @@ One could argue that programming in assembly was complicated in that it required
 
 The operating system Unix overtook Von Neumann's machine programmed with asssembly language. UNIX had shells and used modularity, making it a little less open and accessible than previous opreating systems programmed with assembly language. 
 
-         Unix   |        Race
-   ------------ | -----------------------------
-        modular |  overt racism
-        shell   |  segregation
+  Unix   |        Race
+  ------ | -----------------------------
+  modular |  overt racism
+  shell   |  segregation
 
 #### Late 1990s
 
