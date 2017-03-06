@@ -24,6 +24,9 @@ Unix and race are separate entities which McPherson looks at through a lenticula
 
 2. About RACE. Our bodies _embody information_ such as race. Judgements are made, e.g., by media, employers, according to visual representations, according to a structured hierarchy of white / other, where white may be preferred and other may not. The other are cordoned off and prevented from accessing services and programs that owners/managers of the system do not want them to access. 
 
+3. Why were the digital humanities so white, sheds light on why are the 1% so white? The system supports itself, 'the master's tools' are white, the system, as McPherson points out, is structured so that it feeds the white and stifles the other, first overtly, then covertly.
+
+
 #### Pre UNIX
 
 Assembly language, Von Neumann machine/processor, do-it-yourself data structures carved out, with SAL, MAL, and TAL (True Assembly Language). One could argue that programming in assembly was complicated in that it required keeping track of the space used, being careful not to overwrite areas by keeping the data structures in the program 'segregated' manually in the program. One could also argue that it was simple, transparent.
