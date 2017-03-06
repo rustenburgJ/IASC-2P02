@@ -18,6 +18,9 @@ I refer to the article ["Why are the Digital Humanities so White?"](http://dhdeb
 
 Unix and race are separate entities which McPherson looks at through a lenticular lens. She uses a parallel structure to explain why the digital humanities are so white. 
 
+1. About UNIX. UNIX _embeds_ information 
+2. About RACE. Our bodies embody information such as race. Judgements are made, e.g., by media, employers, according to visual representations, according to a structured hierarchy of white / other, where white may be preferred and other may not.  
+
 #### Pre UNIX
 
 Assembly language, Von Neumann machine/processor, do-it-yourself data structures carved out, with SAL, MAL, and TAL (True Assembly Language). One could argue that programming in assembly was complicated in that it required keeping track of the space used, being careful not to overwrite areas by keeping the data structures in the program 'segregated' manually in the program. One could also argue that it was simple, transparent.
