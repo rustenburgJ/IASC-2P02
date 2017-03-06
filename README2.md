@@ -8,7 +8,7 @@ in Digital Humanities in the Centre for Digital Humanities at Brock University. 
 
 ## Blog post 
 
-!(Continue reading)[https://github.com/rustenburgJ/IASC-2P02/blog] 
+(Continue reading) (https://github.com/rustenburgJ/IASC-2P02/blog) Continue reading (https://rustenburgJ.github.io/IASC-2P02/blog)
 
 
 
