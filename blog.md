@@ -7,7 +7,7 @@
 
 I refer to the article ["Why are the Digital Humanities so White?"](http://dhdebates.gc.cuny.edu/debates/text/29) by Tara McPherson who discusses a parallel between the computer, hard sciences, the UNIX operating system, and digital humanities, media and race, looking through a lenticular lens. This lens type can show one image, or the other, but not both images at the same time or a merged version, e.g., a postcard of two 3-D images. 
 
-> Both the computer and the lenticular lens mediate images and objects, changing their relationship but frequently suppressing that process of relation, much like the divided departments of the contemporary university. The fragmentary knowledges encouraged by many forms and experiences of the digital neatly parallel the logics that underwrite the covert racism endemic to our times, operating in potential feedback loops, supporting each other. If scholars of race have highlighted how certain tendencies within poststructuralist theory simultaneously respond to and marginalize race, this maneuver is at least partially possible because of a parallel and increasing dispersion of electronic forms across culture, forms that simultaneously enact and shape their new modes of thinking (13).
+> Both the computer and the lenticular lens mediate images and objects, changing their relationship but frequently suppressing that process of relation, much like the divided departments of the contemporary university. The fragmentary knowledges encouraged by many forms and experiences of the digital neatly parallel the logics that underwrite the covert racism endemic to our times, operating in potential feedback loops, supporting each other. If scholars of race have highlighted how certain tendencies within poststructuralist theory simultaneously respond to and marginalize race, this maneuver is at least partially possible because of a parallel and increasing dispersion of electronic forms across culture, forms that simultaneously enact and shape their new modes of thinking (13). (Thomas Rommel)  (http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-8&toc.depth=1&toc.id=ss1-2-8&brand=default)
 
 ### Article Analysis, A Parallel Structure of UNIX and Race
 
@@ -74,7 +74,7 @@ Most frequent words in the corpus: unix (74); digital (62); race (52); modularit
 
 Link to [blog](https://rustenburgj.github.io/IASC-2P02/blog).
 
-> The history of literary computing, however, shows that only a limited number of textual phenomena can be analyzed profitably in the context of quantitative and qualitative computer-based analyses of style. These phenomena have to be linked to some surface features that can be identified by electronic means, usually by some form of pattern matching. Computers are exceptionally well suited for this kind of analysis, and only human intuition and insight, in combination with the raw computing power of machines programmed to act as highly specialized electronic tools, can make some texts or textual problems accessible to scholars. (Thomas Rommell)  (http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-8&toc.depth=1&toc.id=ss1-2-8&brand=default)
+
 
 
 Works Cited
@@ -83,7 +83,7 @@ Works Cited
 
 McPherson, Tara. 2012 Print Edition. “Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation”  http://dhdebates.gc.cuny.edu/debates/text/29 accessed March 3, 2017.
 
-
+(Thomas Rommel)  (http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-8&toc.depth=1&toc.id=ss1-2-8&brand=default)
 
 
 Reference
