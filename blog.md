@@ -67,6 +67,12 @@ A closer look at the text as image. The size of the text is in direct proportion
 
 
 
+
+
+![](/images/Voyant-tools-graph.png)
+
+
+
 Link to [blog](https://rustenburgj.github.io/IASC-2P02/blog).
 
 
