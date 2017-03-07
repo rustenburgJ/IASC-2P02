@@ -28,7 +28,7 @@ Unix and race are separate entities which McPherson looks at through a lenticula
 
 - Structural separation
 
-1. About UNIX. UNIX _embeds information_, hiding it from users of the system but transparent to creators of applications. The application programmers cordon off users from areas of the program they do not want users to see or access or change.
+1. About UNIX. UNIX _embeds information_, hiding it from users of the system but transparent to creators of applications. The application programmers cordon off users from areas of the program they do not want users to see or access or change. It does so by modularity and use of shells.
 
 2. About RACE. Our bodies _embody information_ such as race and culture. Judgements are made, e.g., by media, employers, according to visual representations. According to a structured hierarchy of white / other, where 'white' may be or is preferred and 'other' may or is not. The other are cordoned off and prevented from accessing jobs, services and/or programs that owners/managers of the system do not want them to access. 
 
