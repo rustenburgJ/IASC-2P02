@@ -61,7 +61,7 @@ Structures responding to and marginalizing race - feminism, there is no one woma
 
 
 
-### Text Analysis
+### Voyant Text Analysis
 
 As Thomas Rommel writes, 
 > The history of literary computing, however, shows that only a limited number of textual phenomena can be analyzed profitably in the context of quantitative and qualitative computer-based analyses of style. These phenomena have to be linked to some surface features that can be identified by electronic means, usually by some form of pattern matching. Computers are exceptionally well suited for this kind of analysis, and only human intuition and insight, in combination with the raw computing power of machines programmed to act as highly specialized electronic tools, can make some texts or textual problems accessible to scholars.
@@ -100,7 +100,10 @@ Most frequent words in the corpus: privilege (31); white (22); race (18); advant
 
 Link to [blog](https://rustenburgj.github.io/IASC-2P02/blog).
 
-
+  **McPherson**   |        **McIntosh**
+  ------ | -----------------------------
+  modular |  overt racism
+  ![](images/words-voyant-tools.jpg)   |  ![](images/Voyant-PeggyMcIntoshWhitePrivilegeWordCloud.jpg)
 
 
 Works Cited
