@@ -87,9 +87,6 @@ Most frequent words in the corpus: privilege (31); white (22); race (18); advant
 ![](images/Voyant-PeggyMcIntoshWhitePrivilege.jpg)
 
 
-![](images/Voyant-PeggyMcIntoshWhitePrivilegeWordCloud.jpg)
-
-![](images/Voyant-PeggyMcIntoshWhitePrivilegeGraph.jpg)
 
 
 
