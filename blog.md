@@ -89,14 +89,14 @@ Most frequent words in the corpus: privilege (31); white (22); race (18); advant
 
 
 
-  **McPherson**   |        **McIntosh**
+  **McPherson - Word cloud**   |        **McIntosh**
   ------ | -----------------------------
   overt and covert racism |  white privilege sustains racism
   ![](images/words-voyant-tools.jpg)   |  ![](images/Voyant-PeggyMcIntoshWhitePrivilegeWordCloud.jpg)
 
 
 
-  **McPherson**   |        **McIntosh**
+  **McPherson - Graph**   |        **McIntosh**
   ------ | -----------------------------
   overt and covert racism |  white privilege sustains racism
   ![](images/Voyant-tools-graph.png)   |  ![](images/Voyant-PeggyMcIntoshWhitePrivilegeGraph.jpg)
