@@ -26,9 +26,9 @@ Unix and race are separate entities which McPherson looks at through a lenticula
 
 1. About UNIX. UNIX _embeds information_, hiding it from users of the system but transparent to creators of applications. The application programmers cordon off users from areas of the program they do not want users to see or access or change.
 
-2. About RACE. Our bodies _embody information_ such as race. Judgements are made, e.g., by media, employers, according to visual representations, according to a structured hierarchy of white / other, where white may be preferred and other may not. The other are cordoned off and prevented from accessing services and programs that owners/managers of the system do not want them to access. 
+2. About RACE. Our bodies _embody information_ such as race and culture. Judgements are made, e.g., by media, employers, according to visual representations. According to a structured hierarchy of white / other, where 'white' may be or is preferred and 'other' may or is not. The other are cordoned off and prevented from accessing jobs, services and/or programs that owners/managers of the system do not want them to access. 
 
-3. Why were the digital humanities so white, sheds light on why are the 1% so white? The system supports itself, 'the master's tools' are white, the system, as McPherson points out, is structured so that it feeds the white and stifles the other, first overtly, then covertly.
+3. Why were the digital humanities so white, sheds light on why are the 1% still so white? The system supports itself, 'the master's tools' are white, the system, as McPherson points out, is structured so that it feeds the white and stifles the other, first overtly, then covertly. White, upper class, educated men have the privilege to continue the system. And then in the mid 1960s there were race riots and the second wave of feminism to counter act that system of privilege.
 
 
 #### Pre UNIX
