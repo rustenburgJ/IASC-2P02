@@ -1,6 +1,9 @@
 #  Blog
 
 # [Joyce Rustenburg](https://twitter.com/rustenburg_J)
+
+![](images/rustenburgJ-AboutMe.png)
+
 [link to Brock University](https://brocku.ca/humanities/humanities-research/humanities-research/humanities-research-institute)
 
 ## Assignment 2
