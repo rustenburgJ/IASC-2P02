@@ -74,14 +74,9 @@ This text analysis visualization, presents evidence that supports my core argume
 The text analysis tool I used was [Voyant](https://voyant-tools.org). Here is the text analysis document window after I pasted in the text from the article, 
 ![](images/Voyant-tools-corpus.jpg). The results of the text analysis: This corpus has 1 document with 10,231 total words and 2,581 unique word forms. Created now.
 Most frequent words in the corpus: unix (74); digital (62); race (52); modularity (40); new (37).
-- A word map of the text. The size of the text is in direct proportion to the number of times the word is found in the corpus.
-![](images/words-voyant-tools.jpg)
-
-
-- The curves in the graph show the analysis of the word count of the corpus, the article by McPherson.
-
-
-![](/images/Voyant-tools-graph.png)
+- In the word map of the text the size of the text is in direct proportion to the number of times the word is found in the corpus.
+The corpus, or the text in the document is shown between the word map and the graph. The curves in the graph show the analysis of the word count of the corpus, the article by McPherson.
+Following is the Voyant text analysis of Peggy McIntosh's article.
 
 
 ### Voyant Text Analysis of Peggy McIntosh's _White Privilege_
