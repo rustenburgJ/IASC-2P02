@@ -84,7 +84,7 @@ Most frequent words in the corpus: unix (74); digital (62); race (52); modularit
 ![](/images/Voyant-tools-graph.png)
 
 
-### Analysis of Peggy McIntosh's _White Privilege_
+### Voyant Text Analysis of Peggy McIntosh's _White Privilege_
 
 This corpus has 1 document with 2,566 total words and 796 unique word forms. Created 2 seconds ago.
 Most frequent words in the corpus: privilege (31); white (22); race (18); advantage (15); work (15)
