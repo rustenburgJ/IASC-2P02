@@ -98,7 +98,7 @@ Most frequent words in the corpus: privilege (31); white (22); race (18); advant
 
 
 
-Link to [blog](https://rustenburgj.github.io/IASC-2P02/blog).
+
 
   **McPherson**   |        **McIntosh**
   ------ | -----------------------------
@@ -111,6 +111,9 @@ Link to [blog](https://rustenburgj.github.io/IASC-2P02/blog).
   ------ | -----------------------------
   overt and covert racism |  white privilege sustains racism
   ![](images/Voyant-tools-graph.png)   |  ![](images/Voyant-PeggyMcIntoshWhitePrivilegeGraph.jpg)
+  
+  
+  Link to [blog](https://rustenburgj.github.io/IASC-2P02/blog).
 
 
 Works Cited
