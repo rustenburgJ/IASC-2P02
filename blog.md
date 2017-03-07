@@ -10,7 +10,7 @@
 
 - I first worked in UNIX when I was the help desk for a free net in the mid 1990s. The Internet was non-graphical at the time and I worked using the command line to add users to the system, make help files to instruct business and residential clients how to connect to the system with various computers, modems, and software, and how to use/surf non-graphical Internet programs such as Archie, Veronica, and Lynx. I prorammed at the Windows command line (DOS) since 1988 and in Java since 1997 at school and on my G5 Powerbook, Macbooks, and Windows OS. I also use my two Linux OS computers.
 
-- my interests are social justice and equity, programming, Arduino.
+- My interests are social justice and equity, programming, Arduino, and have a You Tube gaming channel.
 
 - I volunteer making meals, serving and cleaning up for a Saturday Lunch Program in my community for low income and homeless people.
 
