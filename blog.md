@@ -32,8 +32,10 @@ Unix and race are separate entities which McPherson looks at through a lenticula
 
 2. About RACE. Our bodies _embody information_ such as race and culture. Judgements are made, e.g., by media, employers, according to visual representations. According to a structured hierarchy of white / other, where 'white' may be or is preferred and 'other' may or is not. The other are cordoned off and prevented from accessing jobs, services and/or programs that owners/managers of the system do not want them to access. 
 
-3. Why were the digital humanities so white, sheds light on why are the 1% still so white? The system supports itself, 'the master's tools' are white, the system, as McPherson points out, is structured so that it feeds the white and stifles the other, first overtly, then covertly. White, upper class, educated men have the privilege to continue the system. And then in the mid 1960s there were race riots and the second wave of feminism to counter act that system of privilege. _White Privilege, Unpacking the Invisible Knapsack_ by Peggy McIntosh (https://www.pcc.edu/resources/illumination/documents/white-privilege-essay-mcintosh.pdf) outlines the 
+3. A supporting document to McPherson, is Peggy McIntosh's _White Privilege, Unpacking the Invisible Knapsack_  (https://www.pcc.edu/resources/illumination/documents/white-privilege-essay-mcintosh.pdf) outlines the 
 "_Privilege: an invisible package of unearned assets that I can count on cashing in each day, but about which I was “meant” to remain oblivious"_. McIntosh writes a numbered list advantages of being white that come implicitly in an 'invisible knapsack' that she has taken for granted as a white person. She shines a spotlight on the white privilege that most [whites] take for granted and do not notice.
+
+4. Why were the digital humanities so white, sheds light on why are the 1% still so white? The system supports itself, 'the master's tools' are white, the system, as McPherson points out, is structured so that it feeds the white and stifles the other, first overtly before the mid 1960s then covertly after that. White, upper class, educated men have the privilege to continue the system. In the mid 1960s there were race riots and the second wave of feminism to counter act that system of privilege.
 
 #### Pre UNIX
 
