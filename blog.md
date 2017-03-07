@@ -107,7 +107,8 @@ Works Cited
 
 
 
-McIntosh, Peggy. "White Privilege: Unpacking the Invisible Knapsack" https://www.pcc.edu/resources/illumination/documents/white-privilege-essay-mcintosh.pdf accessed March 3, 2017.
+McIntosh, Peggy. "White Privilege: Unpacking the Invisible Knapsack" https://www.pcc.edu/resources/illumination/documents/white-privilege-essay-mcintosh.pdf accessed March 3, 2017. From 
+McIntosh, Peggy. White Privilege and Male Privilege: A Personal Account of Coming to See Correspondences Through Work in Women's Studies. Wellesley, MA: Wellesley College, Center for Research on Women, 1988. Print.
 
 McPherson, Tara. 2012 Print Edition. “Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation”  http://dhdebates.gc.cuny.edu/debates/text/29 accessed March 3, 2017.
 
