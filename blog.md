@@ -85,6 +85,7 @@ Most frequent words in the corpus: unix (74); digital (62); race (52); modularit
 This corpus has 1 document with 2,566 total words and 796 unique word forms. Created 2 seconds ago.
 Most frequent words in the corpus: privilege (31); white (22); race (18); advantage (15); work (15)
 
+![](images/Voyant-PeggyMcIntoshWhitePrivilege.jpg)
 
 
 
