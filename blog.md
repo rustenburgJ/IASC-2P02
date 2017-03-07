@@ -106,6 +106,13 @@ Link to [blog](https://rustenburgj.github.io/IASC-2P02/blog).
   ![](images/words-voyant-tools.jpg)   |  ![](images/Voyant-PeggyMcIntoshWhitePrivilegeWordCloud.jpg)
 
 
+
+  **McPherson**   |        **McIntosh**
+  ------ | -----------------------------
+  overt and covert racism |  white privilege sustains racism
+  ![](images/Voyant-tools-graph.png)   |  ![](images/Voyant-PeggyMcIntoshWhitePrivilegeGraph.jpg)
+
+
 Works Cited
 
 
