@@ -102,7 +102,7 @@ Link to [blog](https://rustenburgj.github.io/IASC-2P02/blog).
 
   **McPherson**   |        **McIntosh**
   ------ | -----------------------------
-  modular |  overt racism
+  overt and covert racism |  white privilege
   ![](images/words-voyant-tools.jpg)   |  ![](images/Voyant-PeggyMcIntoshWhitePrivilegeWordCloud.jpg)
 
 
