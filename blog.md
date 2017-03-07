@@ -35,7 +35,7 @@ Unix and race are separate entities which McPherson looks at through a lenticula
 
 Assembly language, Von Neumann machine/processor, do-it-yourself data structures carved out, with SAL, MAL, and TAL (True Assembly Language). One could argue that programming in assembly was complicated in that it required keeping track of the space used, being careful not to overwrite areas by keeping the data structures in the program 'segregated' manually in the program. One could also argue that it was simple, transparent.
 
-#### UNIX and Mid nineteen sixties
+#### UNIX and mid 1960s
 
 The operating system Unix overtook Von Neumann's machine programmed with asssembly language. UNIX had shells and used modularity, making it less open and accessible than previous opreating systems programmed with assembly language. 
 
