@@ -1,18 +1,8 @@
 #  IASC 2P02 | [Joyce Rustenburg](https://twitter.com/rustenburg_J)
 
-![](images/rustenburgJ-AboutMe.png)
-
-## About me
-
-- I am a third-year student in Interactive Arts and Science at [Brock University] (https://brocku.ca/humanities/humanities-research/humanities-research/humanities-research-institute), in the Centre for Digital Humanities. I am studying solving problems through Interactive Arts and Science. Previously my studies included Computer Science (2003), Honours Sociology with a concentration in Social Justice and Equity (2010), Honours Women’s and Gender Studies (2015). These disciplines have provided tools and lenses for analysis from hard science and soft science perspectives as well as feminist perspectives.
-
-- I first worked in UNIX when I was the help desk for a free net in the mid 1990s. The Internet was non-graphical at first and I worked using the command line to add users to the system, make help files to instruct business and residential clients. I configured how to connect to the Internet with various computers, modems, and software, and how to use/surf non-graphical Internet programs such as Archie, Veronica, and Lynx. I prorammed at the Windows command line (DOS) since 1988 and in Java since 1997 at school and on my G5 Powerbook, Macbooks, and Windows OS. I also use my two Linux OS computers.
-
-- My interests are social justice and equity, programming, Arduino, and I have a You Tube gaming channel. I volunteer making meals, serving and cleaning up for a Saturday Lunch Program in my community for low income and homeless people.
-
-
-
-## Assignment 2
+##   Why are the Digital Humanities so White? A Parallel Structure of Unix and Race, 
+###  White Privilege: Unpacking the Invisible Knapsack 
+###  With a Voyant Text Analysis
 
 I refer to the article ["Why are the Digital Humanities so White?"](http://dhdebates.gc.cuny.edu/debates/text/29) by Tara McPherson who asks this question. She addresses two groups, technological and from the humanities who are or seem to be in different camps or silos in 'the academy' and who have different audiences. To discuss this question she draws a parallel between the UNIX operating system and media and race, to demonstrate looking through a lenticular lens. This lens type can show one image, or the other, but not both images at the same time or a merged version, e.g., her example of a postcard of two 3-D images. Her parallel structure is good for comparison as she talks about one concept, then the other, to compare how they bound their respective entities first in the mid 1960s and then much later on. McPherson's article is helpful to explain the point of view to each group from the perspective of the other group.
 
