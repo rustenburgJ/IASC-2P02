@@ -37,7 +37,7 @@ Unix and race are separate entities which McPherson looks at through a lenticula
 
 #### Pre UNIX
 
-Assembly language, Von Neumann machine/processor, do-it-yourself data structures carved out, with SAL, MAL, and TAL (True Assembly Language). One could argue that programming in assembly was complicated in that it required keeping track of the space used, being careful not to overwrite areas by keeping the data structures in the program 'segregated' manually in the program. One could also argue that it was simple, transparent.
+i studied assembly language on a Von Neumann machine/processor, with do-it-yourself data structures carved out, with SAL, MAL, and TAL (True Assembly Language). One could argue that programming in assembly was complicated in that it required keeping track of the space used, being careful not to overwrite areas by keeping the data structures in the program 'segregated' manually in the program. One could also argue that it was simple, transparent, and hands-on.
 
 #### UNIX and mid 1960s
 
