@@ -16,3 +16,5 @@
 Continue reading [blog] (https://rustenburgJ.github.io/IASC-2P02/blog)
 
 [Blog] (https://rustenburgj.github.io/IASC-2P02/blog)
+
+[Blog] (https://rustenburgj.github.io/IASC-2P02/blog).
