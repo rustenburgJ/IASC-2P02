@@ -54,8 +54,8 @@ Structures responding to and marginalizing race - feminism, there is no one woma
 As Thomas Rommel writes, 
 > The history of literary computing, however, shows that only a limited number of textual phenomena can be analyzed profitably in the context of quantitative and qualitative computer-based analyses of style. These phenomena have to be linked to some surface features that can be identified by electronic means, usually by some form of pattern matching. Computers are exceptionally well suited for this kind of analysis, and only human intuition and insight, in combination with the raw computing power of machines programmed to act as highly specialized electronic tools, can make some texts or textual problems accessible to scholars.
 
-Cite as: A Companion to Digital Humanities, ed. Susan Schreibman, Ray Siemens, John Unsworth. Oxford: Blackwell, 2004. 
-http://www.digitalhumanities.org/companion/
+(Thomas Rommel)  (http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-8&toc.depth=1&toc.id=ss1-2-8&brand=default)
+
 
 An example:
 This text analysis visualization, presents evidence that supports my core argument. 
@@ -102,8 +102,11 @@ McIntosh, Peggy. White Privilege and Male Privilege: A Personal Account of Comin
 
 McPherson, Tara. 2012 Print Edition. “Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation”  http://dhdebates.gc.cuny.edu/debates/text/29 accessed March 3, 2017.
 
-(Thomas Rommel)  (http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-8&toc.depth=1&toc.id=ss1-2-8&brand=default)
 
+
+
+Rommel, Thomas. A Companion to Digital Humanities, ed. Susan Schreibman, Ray Siemens, John Unsworth. Oxford: Blackwell, 2004. 
+http://www.digitalhumanities.org/companion/
 
 Reference
 [digital humanities companion](http://www.digitalhumanities.org/companion/)
