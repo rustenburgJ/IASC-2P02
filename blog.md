@@ -33,7 +33,7 @@ Unix and race are separate entities which McPherson looks at through a lenticula
 
 4. Why were the digital humanities so white, sheds light on why are the 1% still so white? The system supports itself, 'the master's tools' are white, the system, as McPherson points out, is structured so that it feeds the white and stifles the other, first overtly before the mid 1960s then covertly after that. White, upper class, educated men have the privilege to continue the system. In the mid 1960s there were race riots and the second wave of feminism to counter act that system of privilege. This is a political subject as who controlled the Internet and early computers but the government and the military, as well as who controlled schools and education. Who also controlled the media, but corporations paying for commercials and air-time and advertisements. Who controlled the government, education, and corporations but white, upper class, educated men.
 
-5. Changes came about from second wave feminism, to work toward gender equality and third wave feminism 
+5. Changes came about from second wave feminism, to work toward gender equality and third wave feminism in the early 1990s brought many aspects including action and support for women of colour. Feminism could push back against inequity. People had to recognize inequity and that is why I have included Peggy McIntosh's paper on _White Privilege, Unpacking the Invisible Knapsack._ The goal is to break down the barriers to allow inclusion in the Digital Humanities, academia, or elsewhere.
 
 #### Pre UNIX
 
