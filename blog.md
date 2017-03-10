@@ -1,4 +1,4 @@
-##   Why are the Digital Humanities so White? A Parallel Structure of Unix and Race, White Privilege: Unpacking the Invisible Knapsack, Using a Voyant Text Analysis Tool
+##   Why are the Digital Humanities so White? A Parallel Structure of Unix and Race, White Privilege: Unpacking the Invisible Knapsack, Using Voyant, A Text Analysis Tool
 
 ###  [Joyce Rustenburg](https://twitter.com/rustenburg_J)
 
