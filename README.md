@@ -13,8 +13,4 @@
 
 ## Blog post
 
-Continue reading [blog] (https://rustenburgJ.github.io/IASC-2P02/blog)
-
-[Blog] (https://rustenburgj.github.io/IASC-2P02/blog)
-
-[Blog] (https://rustenburgj.github.io/IASC-2P02/blog/master/blog).
+- Continue reading [blog] (https://rustenburgJ.github.io/IASC-2P02/blog)
