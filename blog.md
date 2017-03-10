@@ -54,7 +54,7 @@ Structures responding to and marginalizing race - feminism, there is no one woma
 As Thomas Rommel writes, 
 > The history of literary computing, however, shows that only a limited number of textual phenomena can be analyzed profitably in the context of quantitative and qualitative computer-based analyses of style. These phenomena have to be linked to some surface features that can be identified by electronic means, usually by some form of pattern matching. Computers are exceptionally well suited for this kind of analysis, and only human intuition and insight, in combination with the raw computing power of machines programmed to act as highly specialized electronic tools, can make some texts or textual problems accessible to scholars.
 
-(Thomas Rommel)  (http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-8&toc.depth=1&toc.id=ss1-2-8&brand=default)
+[Thomas Rommel](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-8&toc.depth=1&toc.id=ss1-2-8&brand=default)
 
 
 An example:
