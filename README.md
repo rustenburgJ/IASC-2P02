@@ -1,6 +1,4 @@
-#  IASC 2P02 | Joyce Rustenburg
-
-# [Joyce Rustenburg](https://twitter.com/rustenburg_J)
+#  IASC 2P02 | [Joyce Rustenburg](https://twitter.com/rustenburg_J)
 
 ![](images/rustenburgJ-AboutMe.png)
 
