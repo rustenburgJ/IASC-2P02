@@ -54,8 +54,7 @@ Structures responding to and marginalizing race - feminism, there is no one woma
 As Thomas Rommel writes, 
 > The history of literary computing, however, shows that only a limited number of textual phenomena can be analyzed profitably in the context of quantitative and qualitative computer-based analyses of style. These phenomena have to be linked to some surface features that can be identified by electronic means, usually by some form of pattern matching. Computers are exceptionally well suited for this kind of analysis, and only human intuition and insight, in combination with the raw computing power of machines programmed to act as highly specialized electronic tools, can make some texts or textual problems accessible to scholars.
 
-[Thomas Rommel](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-8&toc.depth=1&toc.id=ss1-2-8&brand=default)
-
+Article link: [Thomas Rommel](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-8&toc.depth=1&toc.id=ss1-2-8&brand=default)
 
 An example:
 This text analysis visualization, presents evidence that supports my core argument. 
@@ -89,20 +88,21 @@ Most frequent words in the corpus: privilege (31); white (22); race (18); advant
   overt and covert racism |  white privilege sustains racism
   ![](images/Voyant-tools-graph.png)   |  ![](images/Voyant-PeggyMcIntoshWhitePrivilegeGraph.jpg)
   
-  
+
+We have read about the parallel structure, programmers and technical people would recognize the separation of operating system and applications run on the system from users. The humanities have discussed the personal and the political, rules and laws are made in the public sphere and can be changed, e.g., segregation, separation. Social justice workers work to break these barriers from inside and outside the system. McPherson discusses the mid 1960s, and the later. This work is not done, until we no longer see the question "Why are the digital humanities so white?"
+
+
   Link to [blog](https://rustenburgj.github.io/IASC-2P02/blog).
 
 
+
+
 Works Cited
-
-
 
 McIntosh, Peggy. "White Privilege: Unpacking the Invisible Knapsack" https://www.pcc.edu/resources/illumination/documents/white-privilege-essay-mcintosh.pdf accessed March 3, 2017. From 
 McIntosh, Peggy. White Privilege and Male Privilege: A Personal Account of Coming to See Correspondences Through Work in Women's Studies. Wellesley, MA: Wellesley College, Center for Research on Women, 1988. Print.
 
 McPherson, Tara. 2012 Print Edition. “Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation”  http://dhdebates.gc.cuny.edu/debates/text/29 accessed March 3, 2017.
-
-
 
 
 Rommel, Thomas. A Companion to Digital Humanities, ed. Susan Schreibman, Ray Siemens, John Unsworth. Oxford: Blackwell, 2004. 
