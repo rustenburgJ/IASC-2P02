@@ -17,6 +17,6 @@ Continue to read [blog](https://rustenburgJ.github.io/IASC-2P02/blog)
 
 ## Pecha Kucha
 
-Continue to [slides](/reveal/)
+Continue to [slides](https://rustenburgj.github.io/IASC-2P02/reveal/)
 
-https://rustenburgj.github.io/IASC-2P02/reveal/
+
