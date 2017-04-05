@@ -2,7 +2,7 @@
 
 ![](images/rustenburgJ-AboutMe.png)
 
-## About me
+## Bio (About me)
 
 - I am a third-year student in Interactive Arts and Science at [Brock University](https://brocku.ca/humanities/humanities-research/humanities-research/humanities-research-institute), in the Centre for Digital Humanities. I am studying solving problems through Interactive Arts and Science. Previously my studies included Computer Science (2003), Honours Sociology with a concentration in Social Justice and Equity (2010), Honours Women’s and Gender Studies (2015). These disciplines have provided tools and lenses for analysis from hard science and soft science perspectives as well as feminist perspectives.
 
@@ -11,11 +11,14 @@
 - My interests are social justice and equity, programming, Arduino, and I have a You Tube gaming channel. I volunteer making meals, serving and cleaning up for a Saturday Lunch Program in my community for low income and homeless people.
 
 
-## Blog post
+## Featured Product - Academic Blog Post (Blog post)
 
 Continue to read [blog](https://rustenburgJ.github.io/IASC-2P02/blog)
 
-## Pecha Kucha
+## Collaborative Product
+
+
+## Research Presentation (Pecha Kucha)
 
 Continue to [slides](https://rustenburgj.github.io/IASC-2P02/reveal/reveal_working/index.html)
 
