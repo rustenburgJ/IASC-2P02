@@ -22,6 +22,11 @@ For the purpose of this article I am conflating feminism into three waves in ord
 How education is delivered is important because the manifest function or intended purpose of formal education is knowledge, training students in reading, writing, and arithmetic, as well as many other subjects. “Canadians spend much of their lives in classrooms,” affected by “a hidden curriculum, in our schools … where the latent function of education, the inculcation of values that, though not explicitly taught, form an inherent part of a school’s message” (Henslin: 71). The hidden message, are not good at nor found in STEM (Science, Technology, Engineering, & Mathematics https://www.ed.gov/stem ) classes compared to the Arts disciplines. 
 
 
+##  Digital Humanities and new tools to analyze texts -- Voyant
+
+
+
+
 
 ##  Works Cited
 
