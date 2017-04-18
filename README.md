@@ -23,3 +23,7 @@ Continue to read [blog](https://rustenburgJ.github.io/IASC-2P02/blog)
 Continue to [slides](https://rustenburgj.github.io/IASC-2P02/reveal/reveal_working/index.html)
 
 
+## Updated blog
+
+Continue to updated blog [blog2](https://rustenburgj.github.io/IASC-2P02/blog_updated)
+
