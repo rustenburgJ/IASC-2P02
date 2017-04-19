@@ -1,3 +1,0 @@
-#   Collaborative Product
-
-##  Team project
