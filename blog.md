@@ -143,6 +143,14 @@ We have read about the parallel structure, programmers and technical people woul
 
 Works Cited
 
+Brym, Robert J. New Society, Sociology for the 21st Century. 2nd Ed. Toronto, Canada: Harcourt Brace Company Canada Ltd, 1998.
+
+Crow, Barbara A. and Lise Gotell, Eds. Open Boundaries, A Canadian Women’s Studies Reader. 3rd Ed. Toronto, Canada: Pearson Canada Inc. 2009.
+
+DiMaggio, Paul, Eszter Hargittai, Coral Celeste, and Steven Shafer. Digital Inequality, From Unequal Access to Differential Use in The Inequality Reader. Boulder, Colorado: Westview Press, 2007.
+
+Henslin, James M., Dan Glenday, Ann Duffy, Norene Pupo. Sociology, a down-to-earth-approach. 4th Canadian Ed. Toronto, Canada: Pearson Education Canada, 2007.
+
 McIntosh, Peggy. "White Privilege: Unpacking the Invisible Knapsack" https://www.pcc.edu/resources/illumination/documents/white-privilege-essay-mcintosh.pdf accessed March 3, 2017. From 
 McIntosh, Peggy. White Privilege and Male Privilege: A Personal Account of Coming to See Correspondences Through Work in Women's Studies. Wellesley, MA: Wellesley College, Center for Research on Women, 1988. Print.
 
@@ -156,5 +164,5 @@ Reference
 [digital humanities companion](http://www.digitalhumanities.org/companion/)
 
 
-### other
+
 
