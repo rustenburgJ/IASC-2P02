@@ -1,5 +1,6 @@
 ##   Why are the Digital Humanities so White? 
-###  Tara McPherson 2012 Print Edition
+###  Tara McPherson 
+#### 2012 Print Edition
 
 Why is McPherson's question so important? If the digital humanities (DH) are mostly white, then whose interests are serrved, what texts are investigated and published, what questions are asked and answered, whose research is done? If whites are heavily represented, then whose voice is heard, what data is skewed because of only a partial picture, what is the focus of DH work and who is oppressed by that? McPherson uses a parallel structure to uncover similarities between the UNIX operating system and Race, as an oppressive social system, both from a historical perspective. If there is a white vs. non-white perspective as McPherson discusses, I argue that there is also a gendered perspective, a male vs. female or non-male perspective. This is shown by the high numbers of men influential in the Science, Technology, Engineering, and Mathematics (STEM) fields where UNIX and other operating systems originated. 
 
