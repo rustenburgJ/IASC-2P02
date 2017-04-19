@@ -1,4 +1,4 @@
-##   Why are the Digital Humanities so White? 
+##   Why are the Digital Humanities so White? or Thinking the Histories of Race and Computation
 ###  Tara McPherson 
 #### 2012 Print Edition
 
