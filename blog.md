@@ -112,3 +112,7 @@ http://www.digitalhumanities.org/companion/
 
 Reference
 [digital humanities companion](http://www.digitalhumanities.org/companion/)
+
+
+### other
+
