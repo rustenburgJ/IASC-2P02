@@ -18,7 +18,7 @@ Social scientists use a variety of techniques (e.g., surveys, experiments) to he
 Higher education “has always been closely related to social-class background” (Brym: 328). At one Canadian university “students [e.g., women, Jews, Ukranians, Poles, Dutch, Norwegians, Germans, Italians, and Mennonites at the University of Manitoba] needed much higher marks than the “preferred” students [who] were Anglo-Celtic Protestant and Catholic (Brym: 329).
 Conflict theory views society as a site of struggle between groups with different kinds and amounts of power and resources…Groups with more power are likely to control schooling and to impose their culture on it (Brym: 322).
 “Conflict analysis draws attention to the question of whose knowledge is reflected in schools, and which groups are served by the norms that schools foster” (Brym: 323). “Schools, like the society, are controlled by the relatively powerful, educational change depends on change in relations of power outside the school system” (Brym: 324).
-Unequal power relations result in economic inequality, class difference, and dominance through schooling for people.
+Unequal power relations result in economic inequality, class difference, and dominance through schooling for people (Brym).
 
 I will use two types of academic analysis, the first is a traditional examination of the article by critically examining its arguments  and checking its suggestions or conclusions. The second is by using a DH tool, [Voyant](http://voyant-tools.org/), to analyze the article and study statistics about it and my other two supporting articles Peggy MacIntosh's "_White Privilege: Unpacking the Invisible Knapsack"_ and Thomas Rommel's "_A Companion to Digital Humanities"_.
 
