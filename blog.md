@@ -144,7 +144,7 @@ Most frequent words in the corpus: literary (60); studies (45); texts (36); anal
   freq. by font size   |   freq. by line graph
 ![](images/3VoyantCloudRommel.jpg)  |  ![](images/3VoyantLineRommel.jpg)
 links    |    highlighted with mouse
-![](images/3LinksRommel.jpg)  |   ![](images/3VoyantCloudRommel.jpg)
+![](images/3LinksRommel.jpg)  |   ![](images/3bColouredLinks.jpg)
 
 The links button on the Voyant panel shows
 
