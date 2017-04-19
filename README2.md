@@ -19,5 +19,5 @@ Continue to updated blog2
 Blog3
 Updated blog3
 
-Continue to [blog3](https://rustenburgJ.github.io/IASC-2P02/blog3)
+Continue to [blog](https://rustenburgJ.github.io/IASC-2P02/blog)
 x
