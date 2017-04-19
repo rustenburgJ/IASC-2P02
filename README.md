@@ -31,4 +31,8 @@ Continue to updated [blog](https://rustenburgJ.github.io/IASC-2P02/blogupdated)
 
 Continue to updated [blog](https://rustenburgJ.github.io/IASC-2P02/docs/blog)
 
+##  Blog 2
+Continue to updated [blog2](https://rustenburgJ.github.io/IASC-2P02/blog2)
+
+
 x
