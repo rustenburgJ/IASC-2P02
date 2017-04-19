@@ -132,6 +132,12 @@ Most frequent words in the corpus: privilege (31); white (22); race (18); advant
   overt and covert racism |  white privilege sustains racism
   ![](images/Voyant-tools-graph.png)   |  ![](images/Voyant-PeggyMcIntoshWhitePrivilegeGraph.jpg)
   
+### Voyant analysis of Rommel's text
+
+		
+![](images/3VoyantCloudRommel.jpg)  |  ![](
+
+
 
 We have read about the parallel structure, programmers and technical people would recognize the separation of operating system and applications run on the system from users. The humanities have discussed the personal and the political, rules and laws are made in the public sphere and can be changed, e.g., segregation, separation. Social justice workers work to break these barriers from inside and outside the system. McPherson discusses the mid 1960s, and the later. This work is not done, until we look but no longer see the question "Why are the digital humanities so white?"
 
