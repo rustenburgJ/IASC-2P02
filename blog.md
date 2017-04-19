@@ -1,7 +1,7 @@
 ##   Why are the Digital Humanities so White? 
 ###  Tara McPherson
 
-First, Why is McPherson's question so important? If the digital humanities are mostly white, then whose interests are serrved, what texts are published, what questions are asked and answered, whose research is done? 
+Why is McPherson's question so important? If the digital humanities are mostly white, then whose interests are serrved, what texts are published, what questions are asked and answered, whose research is done? If whites are heavily represented, then whose voice is heard, what data is skewed, and who is oppressed?
 
 
 A Parallel Structure of Unix and Race, White Privilege: Unpacking the Invisible Knapsack, Using Voyant, A Text Analysis Tool
