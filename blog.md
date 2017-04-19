@@ -5,7 +5,7 @@ Why is McPherson's question so important? If the digital humanities (DH) are mos
 
 McPherson's argument 'why' is a comparison structured by a lenticular lens, a parallel of two separate systems, first one and then the other, but never a mixture of the two. She shows how over time situations changed and the systems, UNIX and race, became harder to work from within for those affected. 
 
-   **Unix**    |    **Race**
+   **Unix**    |   **Race**
   ---------------- | -------------------
   operating system |  social system
   computer         |  people
