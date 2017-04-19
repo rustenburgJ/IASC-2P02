@@ -3,7 +3,13 @@
 
 Why is McPherson's question so important? If the digital humanities (DH) are mostly white, then whose interests are serrved, what texts are investigated and published, what questions are asked and answered, whose research is done? If whites are heavily represented, then whose voice is heard, what data is skewed because of only a partial picture, what is the focus of DH work and who is oppressed by that? McPherson uses a parallel structure to uncover similarities between the UNIX operating system and Race, as an oppressive social system, both from a historical perspective. If there is a white vs. non-white perspective as McPherson discusses, I argue that there is also a gendered perspective, a male vs. female or non-male perspective. This is shown by the high numbers of men influential in the Science, Technology, Engineering, and Mathematics (STEM) fields where UNIX and other operating systems originated. 
 
+McPherson's argument 'why' is a comparison structured by a lenticular lens, a parallel of two separate systems, first one and then the other, but never a mixture of the two. She shows how over time situations changed and the systems, UNIX and race, became harder to work from within for those affected. 
 
+
+       **Unix**      |    **Race**
+  ------------------ | -----------------------------
+    operating system |  social system
+                     |  
 
 A Parallel Structure of Unix and Race, White Privilege: Unpacking the Invisible Knapsack, Using Voyant, A Text Analysis Tool
 
