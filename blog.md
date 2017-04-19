@@ -10,7 +10,7 @@ McPherson's argument 'why' is a comparison structured by a lenticular lens, a pa
   operating system |  social system
   computer         |  people
 
-I will use two types of academic analysis, the first is a traditional examination of the article by critically examining its arguments  and checking its suggestions or conclusions. The second is by using a DH tool, Voyant, to analyze the article and study statistics about it and my other two supporting articles Peggy MacIntosh's "_White Privilege: Unpacking the Invisible Knapsack" and Thomas Rommel's "_A Companion to Digital Humanities".
+I will use two types of academic analysis, the first is a traditional examination of the article by critically examining its arguments  and checking its suggestions or conclusions. The second is by using a DH tool, Voyant, to analyze the article and study statistics about it and my other two supporting articles Peggy MacIntosh's "_White Privilege: Unpacking the Invisible Knapsack"_ and Thomas Rommel's "_A Companion to Digital Humanities"_.
 
 
 
