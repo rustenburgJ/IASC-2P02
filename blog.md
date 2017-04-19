@@ -12,8 +12,9 @@ McPherson's argument 'why' is a comparison structured by a lenticular lens, a pa
   computer         |  people
   technical        |  humanities
 
-### Traditional Analysis of Texts
+###  Traditional Analysis of Texts
 
+#### Sociological Lens
 Social scientists use a variety of techniques (e.g., surveys, experiments) to help them “see” the social world (Brym: 525). At first most [social scientists and policymakers] believed that the Internet would enhance equality of access to information by reducing its cost. As technoeuphoria wore off, however, observers noted that some kinds of people used the Internet more than others and that those with higher access also had greater access to education, income, and other resources that help people get ahead (DiMaggio: 549).
 Higher education “has always been closely related to social-class background” (Brym: 328). At one Canadian university “students [e.g., women, Jews, Ukranians, Poles, Dutch, Norwegians, Germans, Italians, and Mennonites at the University of Manitoba] needed much higher marks than the “preferred” students [who] were Anglo-Celtic Protestant and Catholic (Brym: 329).
 Conflict theory views society as a site of struggle between groups with different kinds and amounts of power and resources…Groups with more power are likely to control schooling and to impose their culture on it (Brym: 322).
@@ -22,11 +23,12 @@ Unequal power relations result in economic inequality, class difference, and dom
 
 I will use two types of academic analysis, the first is a traditional examination of the article by critically examining its arguments  and checking its suggestions or conclusions. The second is by using a DH tool, [Voyant](http://voyant-tools.org/), to analyze the article and study statistics about it and my other two supporting articles Peggy MacIntosh's "_White Privilege: Unpacking the Invisible Knapsack"_ and Thomas Rommel's "_A Companion to Digital Humanities"_.
 
-##  Race and Gender Inequalities--A Hierarchy of Race and Gender
+####  Feminist Lens
+####  Race and Gender Inequalities--A Hierarchy of Race and Gender
 “Humans … naturally favour members of their own ethnic or racial group—their ‘relatives’—and have a natural distrust and dislike of ‘nonfamily’ members” (Brym: 221).
 “Power, prestige, and material well-being are often interrelated…historically, women have been excluded from certain types of activities that create opportunities for acquiring power, prestige, and wealth” (Brym: 190). 
 
-##  Feminism described as first, second, and third waves. 
+####  Feminism described as first, second, and third waves. 
 
 For the purpose of this article I am conflating feminism into three waves in order to remind us of the connections of race, gender, and the academy. The first wave of feminism (Henslin et al., 2007: 153) was the fight for the right to vote; the primary goal was the struggle to grant to vote to middle class women, 1835-1920 (Crowe: 59, 60). The second wave of feminism, the rise of feminism in the mid 1960s along with other movements including the civil rights movement in the United States (Crow: 59). The third wave of feminism, late 1980s, 1990-1999 (Crow, 2009: 37, 59) brought out, uncovered, “the recognition that Canadian social institutions perpetuate racism” … and led to “epistemological questions of how to theorize the inter-connection between race and gender and continue to document how racial differences are created between women” (Crow: 37).
 
