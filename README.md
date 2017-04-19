@@ -17,7 +17,8 @@ Continue to read [blog](https://rustenburgJ.github.io/IASC-2P02/blog)
 
 ## Collaborative Product
 
-Group project [collaborate](https://rustenburgJ.github.io/IASC-2P02/collaborate) 
+Group project [collaborate](https://rustenburgJ.github.io/IASC-2P02/collaborate.html) 
+
 
 ## Research Presentation (Pecha Kucha)
 
