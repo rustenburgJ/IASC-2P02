@@ -1,7 +1,8 @@
 ##   Why are the Digital Humanities so White? 
 ###  Tara McPherson
 
-Why is McPherson's question so important? If the digital humanities are mostly white, then whose interests are serrved, what texts are published, what questions are asked and answered, whose research is done? If whites are heavily represented, then whose voice is heard, what data is skewed, and who is oppressed?
+Why is McPherson's question so important? If the digital humanities (DH) are mostly white, then whose interests are serrved, what texts are investigated and published, what questions are asked and answered, whose research is done? If whites are heavily represented, then whose voice is heard, what data is skewed, what is the focus of DH fork and who is oppressed? McPherson uses a parallel structure to uncover similarities between the UNIX operating system and Race, as an oppressive social system, both from a historical perspective.
+
 
 
 A Parallel Structure of Unix and Race, White Privilege: Unpacking the Invisible Knapsack, Using Voyant, A Text Analysis Tool
