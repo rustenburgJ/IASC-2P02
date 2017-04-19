@@ -1,9 +1,14 @@
 ##   Why are the Digital Humanities so White? 
 ###  Tara McPherson
 
+First, Why is McPherson's question so important? If the digital humanities are mostly white, then whose interests are serrved, what texts are published, what questions are asked and answered, whose research is done? 
+
+
 A Parallel Structure of Unix and Race, White Privilege: Unpacking the Invisible Knapsack, Using Voyant, A Text Analysis Tool
 
 ###  [Joyce Rustenburg](https://twitter.com/rustenburg_J)
+
+
 
 I refer to the article ["Why are the Digital Humanities so White?"](http://dhdebates.gc.cuny.edu/debates/text/29) by Tara McPherson who asks this question. She addresses two groups, technological and from the humanities who are or seem to be in different camps or silos in 'the academy' and who have different audiences. To discuss this question she draws a parallel between the UNIX operating system and media and race, to demonstrate looking through a lenticular lens. This lens type can show one image, or the other, but not both images at the same time or a merged version, e.g., her example of a postcard of two 3-D images. Her parallel structure is good for comparison as she talks about one concept, then the other, to compare how they bound their respective entities first in the mid 1960s and then much later on. McPherson's article is helpful to explain the point of view to each group from the perspective of the other group.
 
