@@ -137,16 +137,8 @@ Most frequent words in the corpus: privilege (31); white (22); race (18); advant
 
   **Rommel's - Word cloud**   |        **Rommel's - Line Graph**
   ------ | -----------------------------
+  freq. by font size   |   freq. by line graph
 ![](images/3VoyantCloudRommel.jpg)  |  ![](images/3VoyantLineRommel.jpg)
-
-
-
-
-  **McPherson - Word cloud**   |        **McIntosh**
-  ------ | -----------------------------
-  overt and covert racism |  white privilege sustains racism
-  ![](images/3VoyantCloudRommel.jpg)   |  ![](images/Voyant-PeggyMcIntoshWhitePrivilegeWordCloud.jpg)
-
 
 
 
