@@ -134,9 +134,9 @@ Most frequent words in the corpus: privilege (31); white (22); race (18); advant
   
 ### Voyant analysis of Rommel's text
 
-		
-The word clooud  |  The line graph
--------  | -----------------------------
+
+  **Rommel's - Word cloud**   |        **Rommel's - Line Graph**
+  ------ | -----------------------------
 ![](images/3VoyantCloudRommel.jpg)  |  ![](3VoyantLineRommel.jpg)
 
 
