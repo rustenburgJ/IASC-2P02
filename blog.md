@@ -134,6 +134,10 @@ Most frequent words in the corpus: privilege (31); white (22); race (18); advant
   
 ### Voyant analysis of Rommel's text
 
+This corpus has 1 document with 3,800 total words and 1,126 unique word forms. Vocabulary Density: 0.296
+Average Words Per Sentence: 30.4  
+Most frequent words in the corpus: literary (60); studies (45); texts (36); analysis (35); computer (31)
+
 
   **Rommel's - Word cloud**   |        **Rommel's - Line Graph**
   ------ | -----------------------------
