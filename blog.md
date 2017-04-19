@@ -12,6 +12,9 @@ McPherson's argument 'why' is a comparison structured by a lenticular lens, a pa
   computer         |  people
   technical        |  humanities
 
+I will use two types of academic analysis, the first is a traditional examination of the article by critically examining its arguments  and checking its suggestions or conclusions. The second is by using a DH tool, [Voyant](http://voyant-tools.org/), to analyze the article and study statistics about it and my other two supporting articles Peggy MacIntosh's "_White Privilege: Unpacking the Invisible Knapsack"_ and Thomas Rommel's "_A Companion to Digital Humanities"_.
+
+
 ###  Traditional Analysis of Texts
 
 #### Sociological Lens
@@ -20,8 +23,6 @@ Higher education “has always been closely related to social-class background�
 Conflict theory views society as a site of struggle between groups with different kinds and amounts of power and resources…Groups with more power are likely to control schooling and to impose their culture on it (Brym: 322).
 “Conflict analysis draws attention to the question of whose knowledge is reflected in schools, and which groups are served by the norms that schools foster” (Brym: 323). “Schools, like the society, are controlled by the relatively powerful, educational change depends on change in relations of power outside the school system” (Brym: 324).
 Unequal power relations result in economic inequality, class difference, and dominance through schooling for people (Brym).
-
-I will use two types of academic analysis, the first is a traditional examination of the article by critically examining its arguments  and checking its suggestions or conclusions. The second is by using a DH tool, [Voyant](http://voyant-tools.org/), to analyze the article and study statistics about it and my other two supporting articles Peggy MacIntosh's "_White Privilege: Unpacking the Invisible Knapsack"_ and Thomas Rommel's "_A Companion to Digital Humanities"_.
 
 ####  Feminist Lens
 ####  Race and Gender Inequalities--A Hierarchy of Race and Gender
@@ -92,9 +93,7 @@ OOP |  feedback loops further racism
 
 Structures responding to and marginalizing race - feminism, there is no one woman's story, but many stories, the one/the other and the question is "Who benefits?" and difference, the other always in relation to the one, but the other can never be 'the one.' Previous to this was the male as bread winner, vs. the 'person of colour' male bread winner.
 
-
-
-### Voyant Text Analysis
+### Digital Humanities (DH) and Voyant Text Analysis tools
 
 As Thomas Rommel writes, 
 > The history of literary computing, however, shows that only a limited number of textual phenomena can be analyzed profitably in the context of quantitative and qualitative computer-based analyses of style. These phenomena have to be linked to some surface features that can be identified by electronic means, usually by some form of pattern matching. Computers are exceptionally well suited for this kind of analysis, and only human intuition and insight, in combination with the raw computing power of machines programmed to act as highly specialized electronic tools, can make some texts or textual problems accessible to scholars.
