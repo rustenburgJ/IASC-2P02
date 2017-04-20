@@ -146,8 +146,7 @@ Most frequent words in the corpus: literary (60); studies (45); texts (36); anal
 Links: Literary    |   Literary highlighted with mouse, red links
 ![](images/3LinksRommel.jpg)  |   ![](images/3bColouredLinks.jpg)
 
-The links button on the Voyant panel shows Voyant's analysis of Rommel's article; clicking on a button shows the links it connects to,  
-in this case when the Literary button is clicked the connecting links turn red.
+The links button on the Voyant panel shows Voyant's analysis of Rommel's article; clicking on a button shows the links it connects to, in this case when the Literary button is clicked the connecting links turn red.
 
 <><><><>
 
