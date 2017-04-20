@@ -138,7 +138,7 @@ This corpus has 1 document with 3,800 total words and 1,126 unique word forms. V
 Average Words Per Sentence: 30.4  
 Most frequent words in the corpus: literary (60); studies (45); texts (36); analysis (35); computer (31)
 
-
+Rommel's analysis on the links button shows the connecting links as red when the mouse clicks on a word, e.g., x below:
   **Rommel's - Word cloud**   |        **Rommel's - Line Graph**
   ------ | -----------------------------
   freq. by font size   |   freq. by line graph
