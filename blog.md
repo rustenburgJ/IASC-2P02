@@ -2,7 +2,7 @@
 #### 2012 Print Edition 
 ###  A Traditional Critical Analysis and A DH Textual Analysis using Voyant Tools
 
-Why is McPherson's question so important? If the digital humanities (DH) are mostly white, then whose interests are serrved, what texts are investigated and published, what questions are asked and answered, whose research is done? If whites are heavily represented, then whose voice is heard, what data is skewed because of only a partial picture, what is the focus of DH work and who is oppressed by that? McPherson uses a parallel structure to uncover similarities between the UNIX operating system and Race, as an oppressive social system, both from a historical perspective. If there is a white vs. non-white perspective as McPherson discusses, I argue that there is also a gendered perspective, a male vs. female or non-male perspective. This is shown by the high numbers of men influential in the Science, Technology, Engineering, and Mathematics (STEM) fields where UNIX and other operating systems originated. 
+Why is McPherson's question so important? If the digital humanities (DH) are mostly white, then whose interests are serrved, what texts are investigated and published, what questions are asked and answered, whose research is done? If whites are heavily represented, then whose voice is heard, what data is skewed because of only a partial picture, what is the focus of DH work and who is oppressed by that? McPherson uses a parallel structure to uncover similarities between the UNIX operating system and Race, as an oppressive social system, both from a historical perspective. There is a danger of hegemony where the dominant group speaks for all. If there is a white vs. non-white perspective as McPherson discusses, I argue that there is also a gendered perspective, a male vs. female, or non-male, perspective. This is shown by the high numbers of men influential in the Science, Technology, Engineering, and Mathematics (STEM) fields where UNIX and other operating systems originated. 
 
 McPherson's argument 'why' is a comparison structured by a lenticular lens, a parallel of two separate systems, first one and then the other, but never a mixture of the two. She shows how over time situations changed and the systems, UNIX and race, became harder to work from within for those affected. 
 
@@ -145,7 +145,11 @@ The links button on the Voyant panel shows Voyant's analysis of Rommel's article
 <.><.><><>
 
 
-We have read about the parallel structure, programmers and technical people would recognize the separation of operating system and applications run on the system from users. The humanities have discussed the personal and the political, rules and laws are made in the public sphere and can be changed, e.g., segregation, separation. Social justice workers work to break these barriers from inside and outside the system. McPherson discusses the mid 1960s, and the later. This work is not done, until we look but no longer see the question "Why are the digital humanities so white?"
+We have read about the parallel structure, programmers and technical people would recognize the separation of operating system and applications run on the system from users. Feminism makes us aware that the personal and the political are separate spheres; laws are made in the public sphere and can be changed there, e.g., segregation which separated people by color and race. 
+
+Social justice workers work to break these barriers from inside and outside the system. 
+McPherson discusses the mid 1960s, and the later. 
+This work is not done, until we look but no longer see the question "Why are the digital humanities so white?"
 
 
 
