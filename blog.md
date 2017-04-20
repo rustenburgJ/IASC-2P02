@@ -30,7 +30,7 @@ Unequal power relations result in economic inequality, class difference, and dom
 “Humans … naturally favour members of their own ethnic or racial group—their ‘relatives’—and have a natural distrust and dislike of ‘nonfamily’ members” (Brym: 221).
 “Power, prestige, and material well-being are often interrelated…historically, women have been excluded from certain types of activities that create opportunities for acquiring power, prestige, and wealth” (Brym: 190). 
 
-####  Feminism described as first, second, and third waves. 
+**Feminism described as first, second, and third waves** 
 
 For the purpose of this article I am using the simplified description of feminism into three waves in order to remind us of the connections of race, gender, technology, and the academy. The first wave of feminism (Henslin et al., 2007: 153) was the fight for the right to vote; the primary goal was the struggle to grant to vote to middle class women, 1835-1920 (Crowe: 59, 60). The second wave of feminism, the rise of feminism in the mid 1960s along with other movements including the civil rights movement in the United States (Crow: 59). The third wave of feminism, late 1980s, 1990-1999 (Crow, 2009: 37, 59) brought out, uncovered, “the recognition that Canadian social institutions perpetuate racism” … and led to “epistemological questions of how to theorize the inter-connection between race and gender and continue to document how racial differences are created between women” (Crow: 37).
 
