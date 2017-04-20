@@ -16,7 +16,6 @@ Continue to read [blog](https://rustenburgJ.github.io/IASC-2P02/blog)
 
 ## Collaborative Product  in progress
 
-Group [project](https://rustenburgj.github.io/IASC-2P02/index.html)
 
 Group [project](https://rustenburgj.github.io/IASC-2P02/groupproject.html)
 
