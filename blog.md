@@ -25,7 +25,7 @@ Conflict theory views society as a site of struggle between groups with differen
 Unequal power relations result in economic inequality, class difference, and dominance through schooling for people (Brym).
 
 ####  Feminist Lens
-####  Race and Gender Inequalities--A Hierarchy of Race and Gender
+**Race and Gender Inequalities--A Hierarchy of Race and Gender**
 “Humans … naturally favour members of their own ethnic or racial group—their ‘relatives’—and have a natural distrust and dislike of ‘nonfamily’ members” (Brym: 221).
 “Power, prestige, and material well-being are often interrelated…historically, women have been excluded from certain types of activities that create opportunities for acquiring power, prestige, and wealth” (Brym: 190). 
 
