@@ -26,14 +26,10 @@ Continue to [slides](https://rustenburgj.github.io/IASC-2P02/reveal/reveal_worki
 
 ## Updated blog
 
-Continue to updated [blog](https://rustenburgJ.github.io/IASC-2P02/blogupdated)
+Continue to updated [blog](https://rustenburgJ.github.io/IASC-2P02/blog)
 
-Continue to updated [blog](https://rustenburgJ.github.io/IASC-2P02/docs/blog)
 
 ##  Blog 2
 Continue to updated [blog2](https://rustenburgJ.github.io/IASC-2P02/blog2)
 
-####  Blog3
-
-Updated [blog3](https://rustenburgJ.github.io/IASC-2P02/blog3)
 
