@@ -18,6 +18,7 @@ Continue to read [blog](https://rustenburgJ.github.io/IASC-2P02/blog)
 
 Group [project](https://rustenburgj.github.io/IASC-2P02/collaborate.html) 
 
+Group [project](https://rustenburgj.github.io/IASC-2P02/index.html)
 
 ## Research Presentation (Pecha Kucha)
 
