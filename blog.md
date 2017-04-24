@@ -151,17 +151,13 @@ Social justice workers work to break these barriers from inside and outside the 
 McPherson discusses the mid 1960s, and later connected to certain events. Peggy McIntosh has broken the ice, spoken out, done the right thing, by writing to the educated in a recognizable way, to open the eyes of 'other white people,' many who are unaware that their smooth path has obstacles for others who are non-white. She calls attention to, gives examples of what she can do that many non-whites can not. Other people need to get on board. McPherson has makes the points in a different way than McIntosh has. This work is not done until there is no longer the question "Why are the digital humanities so white?"
 
 
-
-
-
-
 Works Cited
 
 Brym, Robert J. New Society, Sociology for the 21st Century. 2nd Ed. Toronto, Canada: Harcourt Brace Company Canada Ltd, 1998.
 
 Crow, Barbara A. and Lise Gotell, Eds. Open Boundaries, A Canadian Women’s Studies Reader. 3rd Ed. Toronto, Canada: Pearson Canada Inc. 2009.
 
-DiMaggio, Paul, Eszter Hargittai, Coral Celeste, and Steven Shafer. Digital Inequality, From Unequal Access to Differential Use in The Inequality Reader. Boulder, Colorado: Westview Press, 2007.
+DiMaggio, Paul, Eszter Hargittai, Coral Celeste, and Steven Shafer. "Digital Inequality, From Unequal Access to Differential Use" in _The Inequality Reader_, eds. David B. Grusky and Szonja Szelenyi. Boulder, Colorado: Westview Press, 2007: 549-566.
 
 Henslin, James M., Dan Glenday, Ann Duffy, Norene Pupo. Sociology, a down-to-earth-approach. 4th Canadian Ed. Toronto, Canada: Pearson Education Canada, 2007.
 
@@ -170,7 +166,7 @@ McIntosh, Peggy. White Privilege and Male Privilege: A Personal Account of Comin
 
 McPherson, Tara. 2012 Print Edition. “Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation”  http://dhdebates.gc.cuny.edu/debates/text/29 accessed March 3, 2017.
 
-Mills, C. Wright. The Power Elite in The Equality Reader Boulder, Colorado: Westview Press, 2007.
+Mills, C. Wright. "The Power Elite" in _The Equality Reader_, eds. David B. Grusky and Szonja Szelenyi. Boulder, Colorado: Westview Press, 2007: 87-98.
 
 Rommel, Thomas. A Companion to Digital Humanities, ed. Susan Schreibman, Ray Siemens, John Unsworth. Oxford: Blackwell, 2004. 
 http://www.digitalhumanities.org/companion/
