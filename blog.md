@@ -27,7 +27,7 @@ Higher education “has always been closely related to social-class background�
 Conflict theory views society as a site of struggle between groups with different kinds and amounts of power and resources…Groups with more power are likely to control schooling and to impose their culture on it (Brym: 322).
 _“Conflict analysis draws attention to the question of whose knowledge is reflected in schools, and which groups are served by the norms that schools foster” (Brym: 323). “Schools, like the society, are controlled by the relatively powerful, educational change depends on change in relations of power outside the school system” (Brym: 324).
 Unequal power relations result in economic inequality, class difference, and dominance through schooling for people (Brym)._
-"As the institutional means of power and the means of communications that tie them together have become steadily more efficient, those now in command of them have come into command of instruments of rule quite unsurpassed in the history of mankind" (Mills, 2007: 97).
+"As the institutional means of power and the means of communications that tie them together have become steadily more efficient, those now in command of them have come into command of instruments of rule quite unsurpassed in the history of mankind" (Mills, 2007: 97). We see that schools are a powerful place that affect a person for life and in turn that person can have an effect on others. If a certain group of people have limited access to education and tools, then the full potential of the population cannot be reached. 
 
 ####  Feminist Lens
 
@@ -36,7 +36,7 @@ Unequal power relations result in economic inequality, class difference, and dom
 “Power, prestige, and material well-being are often interrelated…historically, women have been excluded from certain types of activities that create opportunities for acquiring power, prestige, and wealth” (Brym: 190). 
 
 **Feminism described as first, second, and third waves**  
-McPherson uses a historical view and I include feminism in three waves in order to remind us of the connections of race, gender, technology, and the academy. The first wave of feminism (Henslin et al., 2007: 153) was the fight for the right to vote; the primary goal was the struggle to grant to vote to middle class women, 1835-1920 (Crowe: 59, 60). The second wave of feminism, the rise of feminism in the mid 1960s along with other movements including the civil rights movement in the United States (Crow: 59). The third wave of feminism, late 1980s, 1990-1999 (Crow, 2009: 37, 59) brought out, uncovered, “the recognition that Canadian social institutions perpetuate racism” … and led to “epistemological questions of how to theorize the inter-connection between race and gender and continue to document how racial differences are created between women” (Crow: 37).
+McPherson uses a historical view and I include feminism in three waves in order to remind us of the connections of race, gender, technology, and the academy. The first wave of feminism (Henslin et al., 2007: 153) was the fight for the right to vote; the primary goal was the struggle to grant to vote to [certain women] _middle class women_, 1835-1920 (Crowe: 59, 60). The second wave of feminism, the rise of feminism in the mid 1960s along with other movements including the civil rights movement in the United States (Crow: 59). The third wave of feminism, late 1980s, 1990-1999 (Crow, 2009: 37, 59) brought out, uncovered, “the recognition that Canadian social institutions perpetuate racism” … and led to “epistemological questions of how to theorize the inter-connection between race and gender and continue to document how racial differences are created between women” (Crow: 37).
 
 How education is delivered is important because the manifest function or intended purpose of formal education is knowledge, training students in reading, writing, and arithmetic, as well as many other subjects. “Canadians spend much of their lives in classrooms,” affected by “a hidden curriculum, in our schools … where the latent function of education, the inculcation of values that, though not explicitly taught, form an inherent part of a school’s message” (Henslin: 71). The hidden message, women are not good at nor found in STEM (Science, Technology, Engineering, & Mathematics https://www.ed.gov/stem ) classes compared to the Arts disciplines. 
 
@@ -45,7 +45,7 @@ How education is delivered is important because the manifest function or intende
 For edit
 - - -
 
-### Article Analysis, A Parallel Structure of UNIX and Race
+### Article Analysis, Comments on A Parallel Structure of UNIX and Race
 
 Unix and race are separate entities which McPherson looks at through a lenticular lens. She uses a parallel structure to explain why the digital humanities are so white. 
 
@@ -62,9 +62,9 @@ Unix and race are separate entities which McPherson looks at through a lenticula
 
 5. Changes came about from second wave feminism, to work toward gender equality and third wave feminism in the early 1990s brought many aspects including action and support for women of colour. Feminism could push back against inequity. People had to recognize inequity and that is why I have included Peggy McIntosh's paper on _White Privilege, Unpacking the Invisible Knapsack._ The goal is to break down the barriers to allow inclusion in the Digital Humanities, academia, or elsewhere.
 
-#### Pre UNIX
+#### A Historical Look, Pre UNIX
 
-i studied assembly language on a Von Neumann machine/processor, with do-it-yourself data structures carved out, with SAL, MAL, and TAL (True Assembly Language). One could argue that programming in assembly was complicated in that it required keeping track of the space used, being careful not to overwrite areas by keeping the data structures in the program 'segregated' manually in the program. One could also argue that it was simple, transparent, and hands-on.
+I studied assembly language on a Von Neumann machine/processor, with do-it-yourself data structures carved out, with SAL, MAL, and TAL (True Assembly Language). One could argue that programming in assembly was complicated in that it required keeping track of the space used, being careful not to overwrite areas by keeping the data structures in the program 'segregated' manually in the program. One could also argue that it was simple, transparent, and hands-on.
 
 #### UNIX and mid 1960s
 
@@ -77,7 +77,6 @@ The operating system Unix overtook Von Neumann's machine programmed with asssemb
 
 #### Late 1990s
 
-
 **Unix, Java** |       **Race**
 ------------ | --------------------------------
 modular |  covert racism
@@ -86,7 +85,7 @@ OOP |  feedback loops further racism
 
 Structures responding to and marginalizing race - feminism, there is no one woman's story, but many stories, the one/the other and the question is "Who benefits?" and difference, the other always in relation to the one, but the other can never be 'the one.' Previous to this was the male as bread winner, vs. the 'person of colour' male bread winner.
 
-### Digital Humanities (DH) and Voyant Text Analysis tools
+### Analysis with Digital Humanities (DH) and Voyant Text Analysis tools
 
 As Thomas Rommel writes, 
 > The history of literary computing, however, shows that only a limited number of textual phenomena can be analyzed profitably in the context of quantitative and qualitative computer-based analyses of style. These phenomena have to be linked to some surface features that can be identified by electronic means, usually by some form of pattern matching. Computers are exceptionally well suited for this kind of analysis, and only human intuition and insight, in combination with the raw computing power of machines programmed to act as highly specialized electronic tools, can make some texts or textual problems accessible to scholars.
@@ -102,15 +101,12 @@ Most frequent words in the corpus: unix (74); digital (62); race (52); modularit
 The corpus, or the text in the document is shown between the word map and the graph. The curves in the graph show the analysis of the word count of the corpus, the article by McPherson.
 Following is the Voyant text analysis of Peggy McIntosh's article.
 
-
 ### Voyant Text Analysis of Peggy McIntosh's _White Privilege_
 
 This corpus has 1 document with 2,566 total words and 796 unique word forms. Created 2 seconds ago.
 Most frequent words in the corpus: privilege (31); white (22); race (18); advantage (15); work (15)
 
 ![](images/Voyant-PeggyMcIntoshWhitePrivilege.jpg)
-
-
 
 
   **McPherson - Word cloud**   |        **McIntosh**
