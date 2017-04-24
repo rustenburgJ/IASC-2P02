@@ -6,7 +6,7 @@ Tara McPherson's question ["Why are the Digital Humanities so White?"](http://dh
 
 McPherson's argument 'why' is a comparison structured by a lenticular lens, a parallel of two separate systems, first one and then the other, but never a mixture of the two. She shows historically, how over time situations changed and the two systems, UNIX operating system and the oppressive social system race, became harder to work from within for those affected.
 
-   **Unix**    |   **Race**
+   **UNIX**    |   **Race**
   ---------------- | -------------------
   1969--beginning of UNIX | 1960s activism 
   operating system |  social system
