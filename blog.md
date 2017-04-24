@@ -12,6 +12,10 @@ McPherson's argument 'why' is a comparison structured by a lenticular lens, a pa
   computer         |  people
   technical        |  humanities
 
+Her parallel structure is good for comparison as she talks about one concept, then the other, to compare how they bound their respective entities first in the mid 1960s and then much later on. McPherson's article is helpful to explain the point of view to each group from the perspective of the other group.
+
+> Both the computer and the lenticular lens mediate images and objects, changing their relationship but frequently suppressing that process of relation, much like the divided departments of the contemporary university. The fragmentary knowledges encouraged by many forms and experiences of the digital neatly parallel the logics that underwrite the covert racism endemic to our times, operating in potential feedback loops, supporting each other. If scholars of race have highlighted how certain tendencies within poststructuralist theory simultaneously respond to and marginalize race, this maneuver is at least partially possible because of a parallel and increasing dispersion of electronic forms across culture, forms that simultaneously enact and shape their new modes of thinking (13). 
+
 I use two types of academic analysis, the first is a traditional examination of the article by critically examining its arguments  and discussing its suggestions or conclusions. The second is by using a DH tool, [Voyant](http://voyant-tools.org/), to analyze the article and study statistics about it and my other two supporting articles Peggy MacIntosh's "_White Privilege: Unpacking the Invisible Knapsack"_ and Thomas Rommel's "_A Companion to Digital Humanities"_. I use my coursework in sociology, women's and gender studies, digital humanities, and programming experience from Computer Science and Mathematics to discuss UNIX.  
 
 
@@ -39,9 +43,6 @@ How education is delivered is important because the manifest function or intende
 - - - - - 
 For edit
 - - -
-Her parallel structure is good for comparison as she talks about one concept, then the other, to compare how they bound their respective entities first in the mid 1960s and then much later on. McPherson's article is helpful to explain the point of view to each group from the perspective of the other group.
-
-> Both the computer and the lenticular lens mediate images and objects, changing their relationship but frequently suppressing that process of relation, much like the divided departments of the contemporary university. The fragmentary knowledges encouraged by many forms and experiences of the digital neatly parallel the logics that underwrite the covert racism endemic to our times, operating in potential feedback loops, supporting each other. If scholars of race have highlighted how certain tendencies within poststructuralist theory simultaneously respond to and marginalize race, this maneuver is at least partially possible because of a parallel and increasing dispersion of electronic forms across culture, forms that simultaneously enact and shape their new modes of thinking (13). 
 
 ### Article Analysis, A Parallel Structure of UNIX and Race
 
