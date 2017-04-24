@@ -142,14 +142,16 @@ Links: Literary    |   Literary highlighted with mouse, red links
 
 The links button on the Voyant panel shows Voyant's analysis of Rommel's article; clicking on a button shows the links it connects to, in this case when the Literary button is clicked the connecting links turn red. Click another button to see what the links are for it.
 
+In summary, we have read about digital humanities, UNIX and race through the lenticular parallel structure. Programmers and technical people should recognize the modularity concepts, software reusability, and standards and rules for software development. Feminism makes us aware that the personal and the political are separate spheres; laws are made in the public sphere and can be changed there, e.g., segregation which separated people by color and race. Social justice activists work to break these barriers from inside and outside the system. Feminism is for everyone, not just for a certain class of white women. Women's and gender studies coursework helps to identify axes of oppression, e.g., race, class, gender, and to work out a plan to change those things for the better. 
 
-
-In summary, we have read about both sides through the lenticular parallel structure, programmers and technical people would recognize the separation of operating system and applications run on the system from users. Feminism makes us aware that the personal and the political are separate spheres; laws are made in the public sphere and can be changed there, e.g., segregation which separated people by color and race. Social justice workers work to break these barriers from inside and outside the system. Feminism is for everyone, not just for a certain class of white women. Women's and gender studies coursework helps to identify axes of oppression, e.g., race, class, gender, and to work out a plan to change those things for the better. 
-
-McPherson discusses the mid 1960s, and later connected to certain events. Peggy McIntosh has broken the ice, spoken out, raised awareness  by writing to the educated in a recognizable way, to open the eyes of 'other white people,' many who are unaware that their smooth path has obstacles for others who are non-white. She calls attention to and gives examples of what she can do that many non-whites cannot. Other people, white people, need to become aware. McPherson makes points in a different way than McIntosh has. 
-McPherson speaks to a broad audience and uses a DH analysis using computational tools, UNIX operating system and compares it to the racial system. McIntosh uses a humanities, academic essay approach, perhaps only seen by academics and students. 
+McPherson discusses the mid 1960s, and movements during those years. Peggy McIntosh has spoken out, raised awareness, by writing to the educated in a recognizable way, to open the eyes of 'other white people,' many who are unaware that their smooth path has obstacles for others who are non-white. She calls attention to and gives examples of what she can do because she is white that many non-whites cannot. Other people, white people, need to become aware. McPherson makes points in a different way than McIntosh has, to a different audience. 
+McPherson speaks to a broad audience and uses a DH analysis using computational tools, UNIX operating system and connects it to the racial system. McIntosh uses a humanities, academic essay approach, perhaps only seen by academics and students. 
 
 Finally, the obstacles need to be removed, entrance for non-white students into DH, and this work is not done until there is no longer the question "Why are the digital humanities so white?"
+
+
+
+
 
 
 Works Cited
