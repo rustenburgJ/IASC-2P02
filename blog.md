@@ -1,4 +1,4 @@
-##   Tara McPherson: Why are the Digital Humanities so White? or Thinking the Histories of Race and Computation
+##   Tara McPherson: Why are the Digital Humanities So White? or Thinking the Histories of Race and Computation
 #### 2012 Print Edition 
 ###  A Traditional Critical Analysis and A DH Textual Analysis using Voyant Tools
 
