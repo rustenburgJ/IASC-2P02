@@ -27,6 +27,7 @@ Higher education “has always been closely related to social-class background�
 Conflict theory views society as a site of struggle between groups with different kinds and amounts of power and resources…Groups with more power are likely to control schooling and to impose their culture on it (Brym: 322).
 _“Conflict analysis draws attention to the question of whose knowledge is reflected in schools, and which groups are served by the norms that schools foster” (Brym: 323). “Schools, like the society, are controlled by the relatively powerful, educational change depends on change in relations of power outside the school system” (Brym: 324).
 Unequal power relations result in economic inequality, class difference, and dominance through schooling for people (Brym)._
+"As the institutional means of power and the means of communications that tie them together have become steadily more efficient, those now in command of them have come into command of instruments of rule quite unsurpassed in the history of mankind" (Mills, 2007: 97).
 
 ####  Feminist Lens
 
@@ -169,6 +170,7 @@ McIntosh, Peggy. White Privilege and Male Privilege: A Personal Account of Comin
 
 McPherson, Tara. 2012 Print Edition. “Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation”  http://dhdebates.gc.cuny.edu/debates/text/29 accessed March 3, 2017.
 
+Mills, C. Wright. The Power Elite in The Equality Reader Boulder, Colorado: Westview Press, 2007.
 
 Rommel, Thomas. A Companion to Digital Humanities, ed. Susan Schreibman, Ray Siemens, John Unsworth. Oxford: Blackwell, 2004. 
 http://www.digitalhumanities.org/companion/
