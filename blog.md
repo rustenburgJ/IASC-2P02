@@ -8,7 +8,7 @@ McPherson's argument 'why' is a comparison structured by a lenticular lens, a pa
 
    **Unix**    |   **Race**
   ---------------- | -------------------
-  1969--beginning of UNIX | 1965 shooting 
+  1969--beginning of UNIX | 1960s activism 
   operating system |  social system
   computer         |  people
   technical        |  humanities
