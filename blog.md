@@ -40,7 +40,7 @@ McPherson uses a historical view and I include feminism in three waves in order 
 
 How education is delivered is important because the manifest function or intended purpose of formal education is knowledge, training students in reading, writing, and arithmetic, as well as many other subjects. “Canadians spend much of their lives in classrooms,” affected by “a hidden curriculum, in our schools … where the latent function of education, the inculcation of values that, though not explicitly taught, form an inherent part of a school’s message” (Henslin: 71). The hidden message, women are not good at nor found in STEM (Science, Technology, Engineering, & Mathematics https://www.ed.gov/stem ) classes compared to the Arts disciplines. 
 
-
+Structures responding to and marginalizing race -  For feminism, there is no one woman's story, but many stories, and class and race tell different stories for white and non-whites. The one/the other and the question is "Who benefits?" There is difference, the other is always in relation to the one, but the other can never be 'the one' unless we work together for change.
 
 ### Article Analysis, Comments on A Parallel Structure of UNIX and Race
 
@@ -58,9 +58,9 @@ Unix and race are separate entities which McPherson looks at through a lenticula
 [McIntosh - Daily Effects of White Privilege list](https://www.pcc.edu/resources/illumination/documents/white-privilege-essay-mcintosh.pdf) (page 2).
 _"One factor seems clear about all of the interlocking oppressions. They take both active forms which we can see and embedded forms which as a member of the dominant group one is taught not to see"_ (McIntosh). McIntosh writes "There was one main piece of cultural turf: it was my own turf, and I was among those who could control the turf." This is the problem, control. As I wrote previously, who benefits? The controlling group control the turf and whether they recognize it or not this means perpetual barriers for non-whites. 
 
-4. Why were the digital humanities so white, sheds light on why are the 1% still so white? The system supports itself, 'the master's tools' are white, the system, as McPherson points out, is structured so that it feeds the white and stifles the other, first overtly before the mid 1960s then covertly after that. White, upper class, educated men have the privilege to continue the system. In the mid 1960s there were race riots and the second wave of feminism to counter act that system of privilege. This is a political subject as those who controlled the Internet and early computers were the government and the military. The government still controls schools and education. Who controls the media and networks but corporations who pay for air time through commercials and advertisements. Who controlled the government, education, and corporations but white, upper class, educated men.
+4. Why were the digital humanities so white, sheds light on why are the 1% still so white? The system supports itself, 'the master's tools' are white, the system, as McPherson points out, is structured so that it feeds the white and stifles the other, first overtly before the mid 1960s then covertly after that. White, upper class, educated men have the privilege to continue the system more easily than others. Efforts made to change the system happened. In the mid 1960s there were race riots and the second wave of feminism to counter act that male system of privilege. This is a political subject as those who controlled the Internet and early computers were the government and the military. The government still controls schools and education and the military. Who controls the media and networks but corporations who pay for air time through commercials and advertisements. Who controlled the government, education, and corporations but white, upper class, educated men.
 
-5. Changes came about from second wave feminism, to work toward gender equality and third wave feminism in the early 1990s brought many aspects including action and support for women of colour. Feminism could push back against inequity. People had to recognize inequity and that is why I have included Peggy McIntosh's paper on _White Privilege, Unpacking the Invisible Knapsack._ The goal is to break down the barriers to allow inclusion in the Digital Humanities, academia, or elsewhere.
+5. Changes came about from second wave feminism, to work toward gender equality and third wave feminism in the early 1990s brought many aspects including action and support for women of colour. Feminism could push back against inequity. People had to recognize inequity and that is why I have included Peggy McIntosh's paper on _White Privilege, Unpacking the Invisible Knapsack._ The goal is to break down the barriers to allow inclusion in the Digital Humanities, academia, or elsewhere. It must be done by those in control.
 
 #### A Historical Look, Pre UNIX
 
@@ -81,9 +81,10 @@ The operating system Unix overtook Von Neumann's machine programmed with asssemb
 ------------ | --------------------------------
 modular |  covert racism
 OOP |  feedback loops further racism
+classes | classes
 
 
-Structures responding to and marginalizing race - feminism, there is no one woman's story, but many stories, the one/the other and the question is "Who benefits?" and difference, the other always in relation to the one, but the other can never be 'the one.' Previous to this was the male as bread winner, vs. the 'person of colour' male bread winner.
+
 
 ### Analysis with Digital Humanities (DH) and Voyant Text Analysis tools
 
@@ -135,16 +136,16 @@ Most frequent words in the corpus: literary (60); studies (45); texts (36); anal
 Links: Literary    |   Literary highlighted with mouse, red links
 ![](images/3LinksRommel.jpg)  |   ![](images/3bColouredLinks.jpg)
 
-The links button on the Voyant panel shows Voyant's analysis of Rommel's article; clicking on a button shows the links it connects to, in this case when the Literary button is clicked the connecting links turn red.
-
-<.><.><><>
+The links button on the Voyant panel shows Voyant's analysis of Rommel's article; clicking on a button shows the links it connects to, in this case when the Literary button is clicked the connecting links turn red. Click another button to see what the links are for it.
 
 
-We have read about the parallel structure, programmers and technical people would recognize the separation of operating system and applications run on the system from users. Feminism makes us aware that the personal and the political are separate spheres; laws are made in the public sphere and can be changed there, e.g., segregation which separated people by color and race. 
 
-Social justice workers work to break these barriers from inside and outside the system. Feminism is for everyone, not just for a certain class of white women. Women's and gender studies coursework helps to identify axes of oppression, e.g., race, class, gender, and to work out a plan to change those things for the better. 
+In summary, we have read about the parallel structure, programmers and technical people would recognize the separation of operating system and applications run on the system from users. Feminism makes us aware that the personal and the political are separate spheres; laws are made in the public sphere and can be changed there, e.g., segregation which separated people by color and race. Social justice workers work to break these barriers from inside and outside the system. Feminism is for everyone, not just for a certain class of white women. Women's and gender studies coursework helps to identify axes of oppression, e.g., race, class, gender, and to work out a plan to change those things for the better. 
 
-McPherson discusses the mid 1960s, and later connected to certain events. Peggy McIntosh has broken the ice, spoken out, done the right thing, by writing to the educated in a recognizable way, to open the eyes of 'other white people,' many who are unaware that their smooth path has obstacles for others who are non-white. She calls attention to, gives examples of what she can do that many non-whites can not. Other people need to get on board. McPherson has makes the points in a different way than McIntosh has. This work is not done until there is no longer the question "Why are the digital humanities so white?"
+McPherson discusses the mid 1960s, and later connected to certain events. Peggy McIntosh has broken the ice, spoken out, raised awareness  by writing to the educated in a recognizable way, to open the eyes of 'other white people,' many who are unaware that their smooth path has obstacles for others who are non-white. She calls attention to and gives examples of what she can do that many non-whites cannot. Other people, white people, need to become aware. McPherson makes points in a different way than McIntosh has. 
+McPherson speaks to a broad audience and uses a DH analysis using computational tools, UNIX operating system and compares it to the racial system. McIntosh uses a humanities, academic essay approach, perhaps only seen by academics and students. 
+
+Finally, the obstacles need to be removed, entrance for non-white students into DH, and this work is not done until there is no longer the question "Why are the digital humanities so white?"
 
 
 Works Cited
