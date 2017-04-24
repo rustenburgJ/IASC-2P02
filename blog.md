@@ -52,7 +52,7 @@ Unix and race are separate entities which McPherson looks at through a lenticula
 Department may refer to: Departmentalization, division of a larger organization into parts with specific responsibility (Wikipedia). 
 
 1. About UNIX. UNIX _embeds information_, hiding it from users of the system but transparent to creators of applications. The application programmers cordon off users from areas of the program they do not want users to see or access or change. It does so by modularity and use of shells. 
-> The Unix philosophy, originated by Ken Thompson, is a set of cultural norms and philosophical approaches to minimalist, modular software development. It is based on the experience of leading developers of the Unix operating system. Early Unix developers were important in bringing the concepts of modularity and reusability into software engineering practice, spawning a "software tools" movement (Wikipedia). 
+> Early Unix developers were important in bringing the concepts of modularity and reusability into software engineering practice, spawning a "software tools" movement (Wikipedia). 
 
 2. About RACE. Our bodies _embody information_ such as race and culture. Judgements are made, e.g., by media, employers, according to visual representations. According to a structured hierarchy of white / other, where 'white' may be or is preferred and 'other' may or is not. The other are cordoned off and prevented from accessing jobs, services and/or programs that owners/managers of the system do not want them to access. 
 
