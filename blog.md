@@ -54,8 +54,8 @@ Unix and race are separate entities which McPherson looks at through a lenticula
 
 3. A supporting document to McPherson, is Peggy McIntosh's _White Privilege, Unpacking the Invisible Knapsack_   [](https://www.pcc.edu/resources/illumination/documents/white-privilege-essay-mcintosh.pdf) outlines the 
 "_Privilege: an invisible package of unearned assets that I can count on cashing in each day, but about which I was “meant” to remain oblivious"_. McIntosh writes a numbered list advantages of being white that come implicitly in an 'invisible knapsack' that she has taken for granted as a white person. She shines a spotlight on the white privilege that most [whites] take for granted and do not notice.
-**List a few here**
-
+**List**
+[McIntosh list](https://www.pcc.edu/resources/illumination/documents/white-privilege-essay-mcintosh.pdf)
 _"One factor seems clear about all of the interlocking oppressions. They take both active forms which we can see and embedded forms which as a member of the dominant group one is taught not to see"_ (McIntosh).
 
 4. Why were the digital humanities so white, sheds light on why are the 1% still so white? The system supports itself, 'the master's tools' are white, the system, as McPherson points out, is structured so that it feeds the white and stifles the other, first overtly before the mid 1960s then covertly after that. White, upper class, educated men have the privilege to continue the system. In the mid 1960s there were race riots and the second wave of feminism to counter act that system of privilege. This is a political subject as those who controlled the Internet and early computers were the government and the military. The government still controls schools and education. Who controls the media and networks but corporations who pay for air time through commercials and advertisements. Who controlled the government, education, and corporations but white, upper class, educated men.
