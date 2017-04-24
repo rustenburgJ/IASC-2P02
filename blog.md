@@ -12,6 +12,7 @@ McPherson's argument 'why' is a comparison structured by a lenticular lens, a pa
   operating system |  social system
   computer         |  people
   technical        |  humanities
+  code studies | cultural and ethnic studies 
 
 Her parallel structure is good for comparison as she talks about one concept, then the other, to compare how they bound their respective entities first in the mid 1960s and then much later on. McPherson's article is helpful to explain the point of view to each group from the perspective of the other group.
 
