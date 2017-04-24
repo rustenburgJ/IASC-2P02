@@ -147,7 +147,7 @@ We have read about the parallel structure, programmers and technical people woul
 
 Social justice workers work to break these barriers from inside and outside the system. 
 McPherson discusses the mid 1960s, and the later. 
-Peggy McIntosh has broken the ice, spoken out, done the right thing, by writing to the educated in a recognizable way, to open the eyes of 'the white,' many who are unaware that their smooth path has obstacles for others who are non-white. Others need to get on board, as McPherson has, in a different way than McPherson has. This work is not done, until we look but no longer see the question "Why are the digital humanities so white?"
+Peggy McIntosh has broken the ice, spoken out, done the right thing, by writing to the educated in a recognizable way, to open the eyes of 'the white,' many who are unaware that their smooth path has obstacles for others who are non-white. She calls attention to, gives examples of what she can do that many non-whites can not. Other people need to get on board. McPherson has makes the points in a different way than McIntosh has. This work is not done until there is no longer the question "Why are the digital humanities so white?"
 
 
 
