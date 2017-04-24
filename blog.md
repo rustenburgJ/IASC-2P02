@@ -25,8 +25,8 @@ I use two types of academic analysis, the first is a traditional examination of 
 Social scientists use a variety of techniques (e.g., surveys, experiments) to help them “see” the social world (Brym: 525). At first most [social scientists and policymakers] believed that the Internet would enhance equality of access to information by reducing its cost. As technoeuphoria wore off, however, observers noted that some kinds of people used the Internet more than others and that those with higher access also had greater access to education, income, and other resources that help people get ahead (DiMaggio: 549).
 Higher education “has always been closely related to social-class background” (Brym: 328). At one Canadian university “students [e.g., women, Jews, Ukranians, Poles, Dutch, Norwegians, Germans, Italians, and Mennonites at the University of Manitoba] needed much higher marks than the “preferred” students [who] were Anglo-Celtic Protestant and Catholic (Brym: 329).
 Conflict theory views society as a site of struggle between groups with different kinds and amounts of power and resources…Groups with more power are likely to control schooling and to impose their culture on it (Brym: 322).
-“Conflict analysis draws attention to the question of whose knowledge is reflected in schools, and which groups are served by the norms that schools foster” (Brym: 323). “Schools, like the society, are controlled by the relatively powerful, educational change depends on change in relations of power outside the school system” (Brym: 324).
-Unequal power relations result in economic inequality, class difference, and dominance through schooling for people (Brym).
+_“Conflict analysis draws attention to the question of whose knowledge is reflected in schools, and which groups are served by the norms that schools foster” (Brym: 323). “Schools, like the society, are controlled by the relatively powerful, educational change depends on change in relations of power outside the school system” (Brym: 324).
+Unequal power relations result in economic inequality, class difference, and dominance through schooling for people (Brym)._
 
 ####  Feminist Lens
 
