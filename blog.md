@@ -45,12 +45,12 @@ Unix and race are separate entities which McPherson looks at through a lenticula
 - Structural separation, 
 Department may refer to: Departmentalization, division of a larger organization into parts with specific responsibility (Wikipedia). 
 
-1. About UNIX. UNIX _embeds information_, hiding it from users of the system but transparent to creators of applications. The application programmers cordon off users from areas of the program they do not want users to see or access or change. It does so by modularity and use of shells. 
+1. About UNIX. UNIX _embeds information_, hiding it from users of the system but transparent to creators of applications. The application programmers cordon off users from areas of the program they do not want users to see or access or change. It does so by modularity and use of shell scripts and command line interpreter use by programmers. 
 > Early Unix developers were important in bringing the concepts of modularity and reusability into software engineering practice, spawning a "software tools" movement (Wikipedia). 
 
 2. About RACE. Our bodies _embody information_ such as race and culture. Judgements are made, e.g., by media, employers, according to visual representations. According to a structured hierarchy of white / other, where 'white' may be or is preferred and 'other' may or is not. The other are cordoned off and prevented from accessing jobs, services and/or programs that owners/managers of the system do not want them to access. 
 
-3. A supporting document to McPherson, is Peggy McIntosh's _White Privilege, Unpacking the Invisible Knapsack_   [](https://www.pcc.edu/resources/illumination/documents/white-privilege-essay-mcintosh.pdf) outlines the 
+3. My supporting document to McPherson, is Peggy McIntosh's _White Privilege, Unpacking the Invisible Knapsack_   [](https://www.pcc.edu/resources/illumination/documents/white-privilege-essay-mcintosh.pdf) as she outlines the 
 "_Privilege: an invisible package of unearned assets that I can count on cashing in each day, but about which I was “meant” to remain oblivious"_. McIntosh writes a numbered list advantages of being white that come implicitly in an 'invisible knapsack' that she has taken for granted as a white person. She shines a spotlight on the white privilege that most [whites] take for granted and do not notice.
 **List of Daily Effects of White Privilege**
 [McIntosh - Daily Effects of White Privilege list](https://www.pcc.edu/resources/illumination/documents/white-privilege-essay-mcintosh.pdf) (page 2).
@@ -91,14 +91,14 @@ As Thomas Rommel writes,
 
 Article link: [Thomas Rommel](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-8&toc.depth=1&toc.id=ss1-2-8&brand=default)
 
-An example:
+An example: 
 This text analysis visualization, presents evidence that supports my core argument. 
 The text analysis tool I used was [Voyant](https://voyant-tools.org). Here is the text analysis document window after I pasted in the text from the article, 
 ![](images/Voyant-tools-corpus.jpg). The results of the text analysis: This corpus has 1 document with 10,231 total words and 2,581 unique word forms. Created now.
 Most frequent words in the corpus: unix (74); digital (62); race (52); modularity (40); new (37).
 - In the word map of the text the size of the text is in direct proportion to the number of times the word is found in the corpus.
 The corpus, or the text in the document is shown between the word map and the graph. The curves in the graph show the analysis of the word count of the corpus, the article by McPherson.
-Following is the Voyant text analysis of Peggy McIntosh's article.
+Following is the Voyant text analysis of Peggy McIntosh's article:
 
 ### Voyant Text Analysis of Peggy McIntosh's _White Privilege_
 
@@ -136,16 +136,11 @@ Links: Literary    |   Literary highlighted with mouse, red links
 
 The links button on the Voyant panel shows Voyant's analysis of Rommel's article; clicking on a button shows the links it connects to, in this case when the Literary button is clicked the connecting links turn red. Click another button to see what the links are for it.
 
-In summary, we have read about digital humanities, UNIX and race through the lenticular parallel structure. Programmers and technical people should recognize the modularity concepts, software reusability, and standards and rules for software development. Feminism makes us aware that the personal and the political are separate spheres; laws are made in the public sphere and can be changed there, e.g., segregation which separated people by color and race. Social justice activists work to break these barriers from inside and outside the system. Feminism is for everyone, not just for a certain class of white women. Women's and gender studies coursework helps to identify axes of oppression, e.g., race, class, gender, and to work out a plan to change those things for the better. 
+In summary, we have read about digital humanities, UNIX and race through the lenticular parallel structure. Programmers and technical people should recognize the modularity concepts, software reusability, and standards and rules for software development. Feminism makes us aware that the personal and the political are separate spheres; laws are made in the public sphere and can be changed there, e.g., segregation which separated people by color and race. Social justice activists work to break these barriers from inside and outside the system. Feminism is for everyone, not just for a certain class of white women. Women's and gender studies coursework helps to identify axes of oppression, e.g., race, class, gender, and to work out a plan to change those things for the better.
 
-McPherson discusses the mid 1960s, and movements during those years. Peggy McIntosh has spoken out, raised awareness, by writing to the educated in a recognizable way, to open the eyes of 'other white people,' many who are unaware that their smooth path has obstacles for others who are non-white. She calls attention to and gives examples of what she can do because she is white that many non-whites cannot. Other people, white people, need to become aware. McPherson makes points in a different way than McIntosh has, to a different audience. 
-McPherson speaks to a broad audience and uses a DH analysis using computational tools, UNIX operating system and connects it to the racial system. McIntosh uses a humanities, academic essay approach, perhaps only seen by academics and students. 
+McPherson discusses the mid 1960s, and movements during those years. Peggy McIntosh has spoken out, raised awareness, by writing to the educated in a recognizable way, to open the eyes of 'other white people,' many who are unaware that their smooth path has obstacles for others who are non-white. She calls attention by giving examples of what she can do because she is white that many non-whites cannot. Other people, white people, need to become aware. McPherson makes points in a different way than McIntosh has, to a different audience. McPherson speaks to a broad audience and uses a DH analysis using computational tools, UNIX operating system and connects it to the racial system. McIntosh uses humanities, academic essay approach, perhaps only seen by academics and students.
 
-Finally, the obstacles need to be removed, entrance for non-white students into DH, and this work is not done until there is no longer the question "Why are the digital humanities so white?"
-
-
-
-
+When the dominant group speaks for all and “control the turf”, the full solution to anything cannot be reached as the dominant group serves itself. First we saw this is about class division as a particular class is able to attend university or college. Second, it is about course division, or silos, as the technical classes were separated from the humanities. McPherson and McIntosh are seeking change. A good development is the intersection of technology and humanities in DH. There are obstacles which need to be removed for entrance for non-white students into DH. This work is not done until there is no longer the question "Why are the digital humanities so white?"
 
 
 Works Cited
