@@ -4,9 +4,15 @@
 
 ## Bio 
 
-- I am a third-year student in Interactive Arts and Science at [Brock University](https://brocku.ca/humanities/humanities-research/humanities-research/humanities-research-institute), in the Centre for Digital Humanities. I am studying solving problems through Interactive Arts and Science. Previously my studies included Computer Science (2003), Honours Sociology with a concentration in Social Justice and Equity (2010), Honours Women’s and Gender Studies (2015). These disciplines have provided tools and lenses for analysis from hard science and soft science perspectives as well as feminist perspectives.
+- I am a third-year student majoring in Interactive Arts and Science at [Brock University](https://brocku.ca/humanities/humanities-research/humanities-research/humanities-research-institute), in the Centre for Digital Humanities. I am studying solving problems through Interactive Arts and Science. Previously my studies included Computer Science (2003), Honours Sociology with a concentration in Social Justice and Equity (2010), Honours Women’s and Gender Studies (2015). These disciplines have provided tools and lenses for analysis from hard science and soft science perspectives as well as feminist perspectives.
 
 - My interests are social justice and equity, programming, Arduino, and I have a You Tube gaming channel. I volunteer making meals, serving and cleaning up for a Saturday Lunch Program in my community for low income and homeless people.
+
+- My academic blog post is an example of the intersection of my interests, computer science, sociology, women's and gender studies, and digital humanities. I used my knowledge from my coursework to theorize the argument Tara McPherson was making in the article I discussed, from many different perspectives.
+
+- The blog post would be strengthened by statistics reports but not in this revision due to the size of the article. 
+
+- I have much relational database experience from post secondary work, the workforce, coursework in computer science and project work in computer science and interactive arts and science. As an engineering word processor I worked in dBASE II, III, & IV, Paradox, and others. In COSC I used  Java thin client with Oracle and SQL, and MySQL and PLSQL, with target statements, and PHP. Most recently I have used iList for work with a media project in IASC, to honour the fallen workers who built the Welland Canal, Canada, from Lake Ontario to Lake Erie.
 
 ## Featured Product - Academic Blog Post 
 
