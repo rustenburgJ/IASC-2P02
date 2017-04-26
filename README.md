@@ -22,9 +22,13 @@ Continue to read [blog](https://rustenburgJ.github.io/IASC-2P02/blog)
 
 ## Collaborative Product 
 
+Discovering Neatline
+
 Group [project](https://rustenburgj.github.io/IASC-2P02/groupproject.html)
 
 ## Research Presentation (Pecha Kucha)
+
+I consider the question, What if touch-screens were never invented?
 
 Continue to [slides](https://rustenburgj.github.io/IASC-2P02/reveal/reveal_working/index.html)
 
